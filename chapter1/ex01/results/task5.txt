@@ -1,0 +1,19 @@
+
+Status: FAILED!
+Check: 1
+Test: In the `body` element, nest a paragraph element that includes the following text: 'Proposed Website for Strike a Chord' 
+
+Below the first paragraph element, add another paragraph element that includes the text 'Presented by:'  followed by your name (firstname lastname).
+Reason: Assertion failed: ' Propose a website for Strike a Chord ' != 'Proposed Website for Strike a Chord'
+-  Propose a website for Strike a Chord 
+? -       ^^^^                         -
++ Proposed Website for Strike a Chord
+?        ^^^
+
+Error : AssertionError - ' Propose a website for Strike a Chord ' != 'Proposed Website for Strike a Chord'
+-  Propose a website for Strike a Chord 
+? -       ^^^^                         -
++ Proposed Website for Strike a Chord
+?        ^^^
+
+Timestamp: 2026-01-09 23:56:52.834146
