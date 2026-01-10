@@ -4,39 +4,39 @@ Check: 1
 Test: Add the `DOCTYPE` to the plan.html file.
 Reason: Unable to find '<!DOCTYPE html>' in the program.
 Error : str - AssertionError
-Timestamp: 2026-01-10 00:16:02.326339
+Timestamp: 2026-01-10 00:18:36.418050
 
 Status: FAILED!
 Check: 2
 Test: Add the `html` tag to the plan.html file.
 Reason: Assertion failed: 0 != 1
 Error : AssertionError - 0 != 1
-Timestamp: 2026-01-10 00:16:02.327109
+Timestamp: 2026-01-10 00:18:36.418467
 
 Status: FAILED!
 Check: 3
 Test: Add the `head` tag to the plan.html file.
 Reason: Assertion failed: 0 != 1
 Error : AssertionError - 0 != 1
-Timestamp: 2026-01-10 00:16:02.327432
+Timestamp: 2026-01-10 00:18:36.418784
 
 Status: FAILED!
 Check: 4
 Test: Add the `title` tag to the plan.html file.
 Reason: Assertion failed: 0 != 1
 Error : AssertionError - 0 != 1
-Timestamp: 2026-01-10 00:16:02.327809
+Timestamp: 2026-01-10 00:18:36.419010
 
 Status: FAILED!
 Check: 5
 Test: Add the `meta` tag to the plan.html file.
 Reason: Assertion failed: 0 != 1
 Error : AssertionError - 0 != 1
-Timestamp: 2026-01-10 00:16:02.328094
+Timestamp: 2026-01-10 00:18:36.419207
 
 Status: FAILED!
 Check: 6
 Test: Add the `body` tag to the plan.html file.
 Reason: Assertion failed: 0 != 1
 Error : AssertionError - 0 != 1
-Timestamp: 2026-01-10 00:16:02.328382
+Timestamp: 2026-01-10 00:18:36.419402
