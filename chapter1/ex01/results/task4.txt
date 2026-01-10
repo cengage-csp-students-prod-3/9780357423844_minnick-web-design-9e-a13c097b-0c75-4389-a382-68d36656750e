@@ -1,0 +1,7 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the `charset` attribute to the `meta` tag and specify the character set as 'utf-8' as follows: `<meta charset="utf-8">`
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'attrs'
+Error : AttributeError - 'NoneType' object has no attribute 'attrs'
+Timestamp: 2026-01-10 00:12:16.666288
