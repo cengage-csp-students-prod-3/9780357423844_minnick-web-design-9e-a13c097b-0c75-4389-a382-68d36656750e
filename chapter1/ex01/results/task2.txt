@@ -1,7 +1,0 @@
-
-Status: FAILED!
-Check: 1
-Test: Add the `lang` attribute to the starting `html` tag and specify the language as 'English' as follows: `<html lang="en">
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'attrs'
-Error : AttributeError - 'NoneType' object has no attribute 'attrs'
-Timestamp: 2026-01-10 00:18:45.105716
