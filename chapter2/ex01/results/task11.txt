@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: The first paragraph element is nested within the main element
-Reason: Assertion failed: The first paragraph element does not exist within the main element
-Error : AssertionError - The first paragraph element does not exist within the main element
-Timestamp: 2026-01-17 06:35:24.407421
+Reason: None
+Timestamp: 2026-01-17 06:42:09.121287
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: The second paragraph element is nested within the main element
-Reason: Assertion failed: Expected 2 paragraph elements within the main element, but found 0
-Error : AssertionError - Expected 2 paragraph elements within the main element, but found 0
-Timestamp: 2026-01-17 06:35:24.408235
+Reason: None
+Timestamp: 2026-01-17 06:42:09.122043
