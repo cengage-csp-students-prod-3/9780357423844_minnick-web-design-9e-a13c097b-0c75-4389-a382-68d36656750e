@@ -1,7 +1,0 @@
-
-Status: FAILED!
-Check: 1
-Test: Add the `lang` attribute to the starting `html` tag and specify the language as **English** as follows: `<html lang="en">` 
-Reason: Assertion failed: The lang attribute is not set to 'en', found eng
-Error : AssertionError - The lang attribute is not set to 'en', found eng
-Timestamp: 2026-01-17 06:02:51.057245
