@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: Update the file name within the comment to index.html
+Reason: Assertion failed: The comment does not exist above the main element
+Error : AssertionError - The comment does not exist above the main element
+Timestamp: 2026-01-17 06:21:03.159590
+
+Status: FAILED!
+Check: 2
+Test: In the title element, replace the word, Template, with Home Page
+Reason: Assertion failed: The title element does not exist
+Error : AssertionError - The title element does not exist
+Timestamp: 2026-01-17 06:21:03.159917
