@@ -1,0 +1,35 @@
+
+Status: FAILED!
+Check: 1
+Test: Nest the provided paragraph element within the `nav` element
+Reason: Assertion failed: The nav element does not exist
+Error : AssertionError - The nav element does not exist
+Timestamp: 2026-01-17 06:31:56.540394
+
+Status: FAILED!
+Check: 2
+Test: The paragraph element contains the provided text
+Reason: Assertion failed: The nav element does not exist
+Error : AssertionError - The nav element does not exist
+Timestamp: 2026-01-17 06:31:56.540723
+
+Status: FAILED!
+Check: 3
+Test: The paragraph element contains the provided text
+Reason: Assertion failed: The nav element does not exist
+Error : AssertionError - The nav element does not exist
+Timestamp: 2026-01-17 06:31:56.540955
+
+Status: FAILED!
+Check: 4
+Test: The paragraph element contains the provided text
+Reason: Assertion failed: The nav element does not exist
+Error : AssertionError - The nav element does not exist
+Timestamp: 2026-01-17 06:31:56.541147
+
+Status: FAILED!
+Check: 5
+Test: The paragraph element contains the provided text
+Reason: Assertion failed: The nav element does not exist
+Error : AssertionError - The nav element does not exist
+Timestamp: 2026-01-17 06:31:56.541331
