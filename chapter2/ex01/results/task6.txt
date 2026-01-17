@@ -1,28 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Nest a `header` element inside the `body`
-Reason: Assertion failed: The body element does not exist
-Error : AssertionError - The body element does not exist
-Timestamp: 2026-01-17 06:31:54.078297
+Reason: None
+Timestamp: 2026-01-17 06:35:18.416467
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Nest a `nav` element inside the `body`
-Reason: Assertion failed: The body element does not exist
-Error : AssertionError - The body element does not exist
-Timestamp: 2026-01-17 06:31:54.078633
+Reason: None
+Timestamp: 2026-01-17 06:35:18.417161
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Nest a `main` element inside the `body`
-Reason: Assertion failed: The body element does not exist
-Error : AssertionError - The body element does not exist
-Timestamp: 2026-01-17 06:31:54.078867
+Reason: None
+Timestamp: 2026-01-17 06:35:18.417910
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Nest a `footer` element inside the `body`
-Reason: Assertion failed: The body element does not exist
-Error : AssertionError - The body element does not exist
-Timestamp: 2026-01-17 06:31:54.079061
+Reason: None
+Timestamp: 2026-01-17 06:35:18.418523

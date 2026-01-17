@@ -1,7 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add the `charset` attribute to the `meta` tag and specify the character set as **UTF-8** as follows: `<meta charset="utf-8">` 
-Reason: Assertion failed: The meta element does not exist
-Error : AssertionError - The meta element does not exist
-Timestamp: 2026-01-17 06:31:52.935308
+Reason: None
+Timestamp: 2026-01-17 06:35:17.288844
