@@ -4,32 +4,32 @@ Check: 1
 Test: The nav element contains a hyperlink to index.html with the text 'Home'.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/index.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/index.html'
-Timestamp: 2026-01-24 04:31:21.900715
+Timestamp: 2026-01-24 04:34:41.274871
 
 Status: FAILED!
 Check: 2
 Test: The nav element contains a hyperlink to lessons.html with the text 'Lessons'.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/index.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/index.html'
-Timestamp: 2026-01-24 04:31:21.900982
+Timestamp: 2026-01-24 04:34:41.275105
 
 Status: FAILED!
 Check: 3
 Test: The nav element contains a hyperlink to instructors.html with the text 'Instructors'.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/index.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/index.html'
-Timestamp: 2026-01-24 04:31:21.901131
+Timestamp: 2026-01-24 04:34:41.275249
 
 Status: FAILED!
 Check: 4
 Test: The nav element contains a hyperlink to rentals.html with the text 'Rentals'.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/index.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/index.html'
-Timestamp: 2026-01-24 04:31:21.901257
+Timestamp: 2026-01-24 04:34:41.275372
 
 Status: FAILED!
 Check: 5
 Test: The nav element contains a hyperlink to contact.html with the text 'Contact'.
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/index.html'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/index.html'
-Timestamp: 2026-01-24 04:31:21.901377
+Timestamp: 2026-01-24 04:34:41.275509
