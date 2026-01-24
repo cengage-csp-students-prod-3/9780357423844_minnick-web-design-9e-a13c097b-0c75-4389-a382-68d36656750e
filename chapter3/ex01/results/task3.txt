@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: The main element contains a div element.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/template.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/template.html'
+Timestamp: 2026-01-24 04:31:23.089047
+
+Status: FAILED!
+Check: 2
+Test: The div element is empty.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/template.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/template.html'
+Timestamp: 2026-01-24 04:31:23.089304
