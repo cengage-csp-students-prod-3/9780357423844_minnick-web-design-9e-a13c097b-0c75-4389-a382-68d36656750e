@@ -2,34 +2,34 @@
 Status: FAILED!
 Check: 1
 Test: The nav element contains a hyperlink to index.html with the text 'Home'.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/index.html'
-Timestamp: 2026-01-24 21:42:46.152590
+Reason: Assertion failed: The anchor element with the text 'Home' is missing.
+Error : AssertionError - The anchor element with the text 'Home' is missing.
+Timestamp: 2026-01-24 21:48:31.519082
 
 Status: FAILED!
 Check: 2
 Test: The nav element contains a hyperlink to lessons.html with the text 'Lessons'.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/index.html'
-Timestamp: 2026-01-24 21:42:46.152862
+Reason: Assertion failed: The anchor element with the text 'Lessons' is missing.
+Error : AssertionError - The anchor element with the text 'Lessons' is missing.
+Timestamp: 2026-01-24 21:48:31.520114
 
 Status: FAILED!
 Check: 3
 Test: The nav element contains a hyperlink to instructors.html with the text 'Instructors'.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/index.html'
-Timestamp: 2026-01-24 21:42:46.153185
+Reason: Assertion failed: The anchor element with the text 'Instructors' is missing.
+Error : AssertionError - The anchor element with the text 'Instructors' is missing.
+Timestamp: 2026-01-24 21:48:31.520849
 
 Status: FAILED!
 Check: 4
 Test: The nav element contains a hyperlink to rentals.html with the text 'Rentals'.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/index.html'
-Timestamp: 2026-01-24 21:42:46.153358
+Reason: Assertion failed: The anchor element with the text 'Rentals' is missing.
+Error : AssertionError - The anchor element with the text 'Rentals' is missing.
+Timestamp: 2026-01-24 21:48:31.521545
 
 Status: FAILED!
 Check: 5
 Test: The nav element contains a hyperlink to contact.html with the text 'Contact'.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/index.html'
-Timestamp: 2026-01-24 21:42:46.153514
+Reason: Assertion failed: The anchor element with the text 'Contact' is missing.
+Error : AssertionError - The anchor element with the text 'Contact' is missing.
+Timestamp: 2026-01-24 21:48:31.522269

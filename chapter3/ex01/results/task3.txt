@@ -2,13 +2,13 @@
 Status: FAILED!
 Check: 1
 Test: The main element contains a div element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/template.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/template.html'
-Timestamp: 2026-01-24 21:42:47.332380
+Reason: Assertion failed: The div element is missing.
+Error : AssertionError - The div element is missing.
+Timestamp: 2026-01-24 21:48:32.704668
 
 Status: FAILED!
 Check: 2
 Test: The div element is empty.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/template.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/template.html'
-Timestamp: 2026-01-24 21:42:47.332623
+Reason: AttributeError occurred: 'NoneType' object has no attribute 'text'
+Error : AttributeError - 'NoneType' object has no attribute 'text'
+Timestamp: 2026-01-24 21:48:32.705680
