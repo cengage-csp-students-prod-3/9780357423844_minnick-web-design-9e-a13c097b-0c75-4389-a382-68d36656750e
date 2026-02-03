@@ -1,0 +1,21 @@
+
+Status: FAILED!
+Check: 1
+Test: Remove the frameborder attribute from the iframe element in the lessons.html file
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/contact.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/contact.html'
+Timestamp: 2026-02-03 06:35:10.002143
+
+Status: FAILED!
+Check: 2
+Test: Remove the style attribute from the iframe element in the lessons.html file
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/contact.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/contact.html'
+Timestamp: 2026-02-03 06:35:10.002368
+
+Status: FAILED!
+Check: 3
+Test: Add the class attribute with the value map to the iframe element in the lessons.html file
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/contact.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/contact.html'
+Timestamp: 2026-02-03 06:35:10.002510
