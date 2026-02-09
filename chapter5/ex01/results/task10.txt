@@ -1,14 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: In the *lessons.html* file, add a class attribute with a value of **round** to the three image elements.
-Reason: Assertion failed: There are not three image elements in the *lessons.html* file.
-Error : AssertionError - There are not three image elements in the *lessons.html* file.
-Timestamp: 2026-02-07 08:20:04.132363
+Reason: None
+Timestamp: 2026-02-09 18:10:28.576128
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: In the *styles.css* file, below the `#info ul` style rule, create a new style rule for the `round` class selector that specifies a `border-radius` of **8px**.
-Reason: Assertion failed: There are not three image elements in the *lessons.html* file.
-Error : AssertionError - There are not three image elements in the *lessons.html* file.
-Timestamp: 2026-02-07 08:20:05.168612
+Reason: None
+Timestamp: 2026-02-09 18:10:28.629326

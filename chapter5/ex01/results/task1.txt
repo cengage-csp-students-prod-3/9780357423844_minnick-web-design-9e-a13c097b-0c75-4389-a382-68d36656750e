@@ -1,28 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Navigate to your *music* folder and open the *index.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/index.html'
-Timestamp: 2026-02-07 08:19:41.744624
+Reason: None
+Timestamp: 2026-02-09 18:10:12.967448
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Navigate to your *music* folder and open the *lessons.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/lessons.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/lessons.html'
-Timestamp: 2026-02-07 08:19:41.744831
+Reason: None
+Timestamp: 2026-02-09 18:10:12.968993
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Navigate to your *music* folder and open the *contact.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/contact.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/contact.html'
-Timestamp: 2026-02-07 08:19:41.744985
+Reason: None
+Timestamp: 2026-02-09 18:10:12.970044
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Navigate to your *music* folder and open the *template.html* nest the following `meta` `viewport` element within the `head` element.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/template.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/template.html'
-Timestamp: 2026-02-07 08:19:41.745095
+Reason: None
+Timestamp: 2026-02-09 18:10:12.970851

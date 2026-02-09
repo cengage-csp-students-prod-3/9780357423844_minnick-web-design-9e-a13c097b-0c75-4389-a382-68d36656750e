@@ -1,147 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add .tel-link to the styles.css file.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55a8e83144ba <unknown>
-#1 0x55a8e7d7d492 <unknown>
-#2 0x55a8e7dd29b6 <unknown>
-#3 0x55a8e7dd2bf1 <unknown>
-#4 0x55a8e7e1e4d4 <unknown>
-#5 0x55a8e7e1b700 <unknown>
-#6 0x55a8e7dc46a2 <unknown>
-#7 0x55a8e7dc5491 <unknown>
-#8 0x55a8e82da479 <unknown>
-#9 0x55a8e82dd391 <unknown>
-#10 0x55a8e82c6a89 <unknown>
-#11 0x55a8e82ddf4e <unknown>
-#12 0x55a8e82ad070 <unknown>
-#13 0x55a8e8301ca8 <unknown>
-#14 0x55a8e8301e78 <unknown>
-#15 0x55a8e8313828 <unknown>
-#16 0x7f4e4149caa4 <unknown>
-#17 0x7f4e41529c6c <unknown>
+Reason: None
+Timestamp: 2026-02-09 18:10:31.414898
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55a8e83144ba <unknown>
-#1 0x55a8e7d7d492 <unknown>
-#2 0x55a8e7dd29b6 <unknown>
-#3 0x55a8e7dd2bf1 <unknown>
-#4 0x55a8e7e1e4d4 <unknown>
-#5 0x55a8e7e1b700 <unknown>
-#6 0x55a8e7dc46a2 <unknown>
-#7 0x55a8e7dc5491 <unknown>
-#8 0x55a8e82da479 <unknown>
-#9 0x55a8e82dd391 <unknown>
-#10 0x55a8e82c6a89 <unknown>
-#11 0x55a8e82ddf4e <unknown>
-#12 0x55a8e82ad070 <unknown>
-#13 0x55a8e8301ca8 <unknown>
-#14 0x55a8e8301e78 <unknown>
-#15 0x55a8e8313828 <unknown>
-#16 0x7f4e4149caa4 <unknown>
-#17 0x7f4e41529c6c <unknown>
-
-Timestamp: 2026-02-07 08:20:08.342292
-
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add .tel-link a to the styles.css file.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55a8e83144ba <unknown>
-#1 0x55a8e7d7d492 <unknown>
-#2 0x55a8e7dd29b6 <unknown>
-#3 0x55a8e7dd2bf1 <unknown>
-#4 0x55a8e7e1e4d4 <unknown>
-#5 0x55a8e7e1b700 <unknown>
-#6 0x55a8e7dc46a2 <unknown>
-#7 0x55a8e7dc5491 <unknown>
-#8 0x55a8e82da479 <unknown>
-#9 0x55a8e82dd391 <unknown>
-#10 0x55a8e82c6a89 <unknown>
-#11 0x55a8e82ddf4e <unknown>
-#12 0x55a8e82ad070 <unknown>
-#13 0x55a8e8301ca8 <unknown>
-#14 0x55a8e8301e78 <unknown>
-#15 0x55a8e8313828 <unknown>
-#16 0x7f4e4149caa4 <unknown>
-#17 0x7f4e41529c6c <unknown>
+Reason: None
+Timestamp: 2026-02-09 18:10:31.736618
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tel-link a"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55a8e83144ba <unknown>
-#1 0x55a8e7d7d492 <unknown>
-#2 0x55a8e7dd29b6 <unknown>
-#3 0x55a8e7dd2bf1 <unknown>
-#4 0x55a8e7e1e4d4 <unknown>
-#5 0x55a8e7e1b700 <unknown>
-#6 0x55a8e7dc46a2 <unknown>
-#7 0x55a8e7dc5491 <unknown>
-#8 0x55a8e82da479 <unknown>
-#9 0x55a8e82dd391 <unknown>
-#10 0x55a8e82c6a89 <unknown>
-#11 0x55a8e82ddf4e <unknown>
-#12 0x55a8e82ad070 <unknown>
-#13 0x55a8e8301ca8 <unknown>
-#14 0x55a8e8301e78 <unknown>
-#15 0x55a8e8313828 <unknown>
-#16 0x7f4e4149caa4 <unknown>
-#17 0x7f4e41529c6c <unknown>
-
-Timestamp: 2026-02-07 08:20:09.382125
-
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Change the `#contact a` selector to   `#contact .email-link`.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#contact .email-link"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55a8e83144ba <unknown>
-#1 0x55a8e7d7d492 <unknown>
-#2 0x55a8e7dd29b6 <unknown>
-#3 0x55a8e7dd2bf1 <unknown>
-#4 0x55a8e7e1e4d4 <unknown>
-#5 0x55a8e7e1b700 <unknown>
-#6 0x55a8e7dc46a2 <unknown>
-#7 0x55a8e7dc5491 <unknown>
-#8 0x55a8e82da479 <unknown>
-#9 0x55a8e82dd391 <unknown>
-#10 0x55a8e82c6a89 <unknown>
-#11 0x55a8e82ddf4e <unknown>
-#12 0x55a8e82ad070 <unknown>
-#13 0x55a8e8301ca8 <unknown>
-#14 0x55a8e8301e78 <unknown>
-#15 0x55a8e8313828 <unknown>
-#16 0x7f4e4149caa4 <unknown>
-#17 0x7f4e41529c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"#contact .email-link"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55a8e83144ba <unknown>
-#1 0x55a8e7d7d492 <unknown>
-#2 0x55a8e7dd29b6 <unknown>
-#3 0x55a8e7dd2bf1 <unknown>
-#4 0x55a8e7e1e4d4 <unknown>
-#5 0x55a8e7e1b700 <unknown>
-#6 0x55a8e7dc46a2 <unknown>
-#7 0x55a8e7dc5491 <unknown>
-#8 0x55a8e82da479 <unknown>
-#9 0x55a8e82dd391 <unknown>
-#10 0x55a8e82c6a89 <unknown>
-#11 0x55a8e82ddf4e <unknown>
-#12 0x55a8e82ad070 <unknown>
-#13 0x55a8e8301ca8 <unknown>
-#14 0x55a8e8301e78 <unknown>
-#15 0x55a8e8313828 <unknown>
-#16 0x7f4e4149caa4 <unknown>
-#17 0x7f4e41529c6c <unknown>
-
-Timestamp: 2026-02-07 08:20:10.423536
+Reason: None
+Timestamp: 2026-02-09 18:10:32.012803

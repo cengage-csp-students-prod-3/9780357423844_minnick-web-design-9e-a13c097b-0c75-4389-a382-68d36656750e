@@ -1,112 +1,24 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: 
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/css/styles.css'
-Timestamp: 2026-02-07 08:19:55.906241
+Reason: None
+Timestamp: 2026-02-09 18:10:25.137915
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Remove the declaration for the `margin` property in the `nav ul` style rule.
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/css/styles.css'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/css/styles.css'
-Timestamp: 2026-02-07 08:19:55.906759
+Reason: None
+Timestamp: 2026-02-09 18:10:25.138351
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: Modify the `nav li` style rule by changing the display value to block.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55d41f4cb4ba <unknown>
-#1 0x55d41ef34492 <unknown>
-#2 0x55d41ef899b6 <unknown>
-#3 0x55d41ef89bf1 <unknown>
-#4 0x55d41efd54d4 <unknown>
-#5 0x55d41efd2700 <unknown>
-#6 0x55d41ef7b6a2 <unknown>
-#7 0x55d41ef7c491 <unknown>
-#8 0x55d41f491479 <unknown>
-#9 0x55d41f494391 <unknown>
-#10 0x55d41f47da89 <unknown>
-#11 0x55d41f494f4e <unknown>
-#12 0x55d41f464070 <unknown>
-#13 0x55d41f4b8ca8 <unknown>
-#14 0x55d41f4b8e78 <unknown>
-#15 0x55d41f4ca828 <unknown>
-#16 0x7fa341c9caa4 <unknown>
-#17 0x7fa341d29c6c <unknown>
+Reason: None
+Timestamp: 2026-02-09 18:10:25.161608
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55d41f4cb4ba <unknown>
-#1 0x55d41ef34492 <unknown>
-#2 0x55d41ef899b6 <unknown>
-#3 0x55d41ef89bf1 <unknown>
-#4 0x55d41efd54d4 <unknown>
-#5 0x55d41efd2700 <unknown>
-#6 0x55d41ef7b6a2 <unknown>
-#7 0x55d41ef7c491 <unknown>
-#8 0x55d41f491479 <unknown>
-#9 0x55d41f494391 <unknown>
-#10 0x55d41f47da89 <unknown>
-#11 0x55d41f494f4e <unknown>
-#12 0x55d41f464070 <unknown>
-#13 0x55d41f4b8ca8 <unknown>
-#14 0x55d41f4b8e78 <unknown>
-#15 0x55d41f4ca828 <unknown>
-#16 0x7fa341c9caa4 <unknown>
-#17 0x7fa341d29c6c <unknown>
-
-Timestamp: 2026-02-07 08:19:56.938154
-
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: Modify the `nav li` style rule by adding the following declaration: `border-top: 1px solid #e5e9fc;`.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55d41f4cb4ba <unknown>
-#1 0x55d41ef34492 <unknown>
-#2 0x55d41ef899b6 <unknown>
-#3 0x55d41ef89bf1 <unknown>
-#4 0x55d41efd54d4 <unknown>
-#5 0x55d41efd2700 <unknown>
-#6 0x55d41ef7b6a2 <unknown>
-#7 0x55d41ef7c491 <unknown>
-#8 0x55d41f491479 <unknown>
-#9 0x55d41f494391 <unknown>
-#10 0x55d41f47da89 <unknown>
-#11 0x55d41f494f4e <unknown>
-#12 0x55d41f464070 <unknown>
-#13 0x55d41f4b8ca8 <unknown>
-#14 0x55d41f4b8e78 <unknown>
-#15 0x55d41f4ca828 <unknown>
-#16 0x7fa341c9caa4 <unknown>
-#17 0x7fa341d29c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x55d41f4cb4ba <unknown>
-#1 0x55d41ef34492 <unknown>
-#2 0x55d41ef899b6 <unknown>
-#3 0x55d41ef89bf1 <unknown>
-#4 0x55d41efd54d4 <unknown>
-#5 0x55d41efd2700 <unknown>
-#6 0x55d41ef7b6a2 <unknown>
-#7 0x55d41ef7c491 <unknown>
-#8 0x55d41f491479 <unknown>
-#9 0x55d41f494391 <unknown>
-#10 0x55d41f47da89 <unknown>
-#11 0x55d41f494f4e <unknown>
-#12 0x55d41f464070 <unknown>
-#13 0x55d41f4b8ca8 <unknown>
-#14 0x55d41f4b8e78 <unknown>
-#15 0x55d41f4ca828 <unknown>
-#16 0x7fa341c9caa4 <unknown>
-#17 0x7fa341d29c6c <unknown>
-
-Timestamp: 2026-02-07 08:19:57.963710
+Reason: None
+Timestamp: 2026-02-09 18:10:25.178908

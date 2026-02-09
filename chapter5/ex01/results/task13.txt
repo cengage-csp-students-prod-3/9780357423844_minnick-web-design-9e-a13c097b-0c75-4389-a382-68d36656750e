@@ -1,98 +1,12 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add a `width` property with a value of 95%
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".map"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x560a9cdc74ba <unknown>
-#1 0x560a9c830492 <unknown>
-#2 0x560a9c8859b6 <unknown>
-#3 0x560a9c885bf1 <unknown>
-#4 0x560a9c8d14d4 <unknown>
-#5 0x560a9c8ce700 <unknown>
-#6 0x560a9c8776a2 <unknown>
-#7 0x560a9c878491 <unknown>
-#8 0x560a9cd8d479 <unknown>
-#9 0x560a9cd90391 <unknown>
-#10 0x560a9cd79a89 <unknown>
-#11 0x560a9cd90f4e <unknown>
-#12 0x560a9cd60070 <unknown>
-#13 0x560a9cdb4ca8 <unknown>
-#14 0x560a9cdb4e78 <unknown>
-#15 0x560a9cdc6828 <unknown>
-#16 0x7f868aa9caa4 <unknown>
-#17 0x7f868ab29c6c <unknown>
+Reason: None
+Timestamp: 2026-02-09 18:10:33.594543
 
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".map"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x560a9cdc74ba <unknown>
-#1 0x560a9c830492 <unknown>
-#2 0x560a9c8859b6 <unknown>
-#3 0x560a9c885bf1 <unknown>
-#4 0x560a9c8d14d4 <unknown>
-#5 0x560a9c8ce700 <unknown>
-#6 0x560a9c8776a2 <unknown>
-#7 0x560a9c878491 <unknown>
-#8 0x560a9cd8d479 <unknown>
-#9 0x560a9cd90391 <unknown>
-#10 0x560a9cd79a89 <unknown>
-#11 0x560a9cd90f4e <unknown>
-#12 0x560a9cd60070 <unknown>
-#13 0x560a9cdb4ca8 <unknown>
-#14 0x560a9cdb4e78 <unknown>
-#15 0x560a9cdc6828 <unknown>
-#16 0x7f868aa9caa4 <unknown>
-#17 0x7f868ab29c6c <unknown>
-
-Timestamp: 2026-02-07 08:20:12.528210
-
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Add a `height` property of 50%
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".map"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x560a9cdc74ba <unknown>
-#1 0x560a9c830492 <unknown>
-#2 0x560a9c8859b6 <unknown>
-#3 0x560a9c885bf1 <unknown>
-#4 0x560a9c8d14d4 <unknown>
-#5 0x560a9c8ce700 <unknown>
-#6 0x560a9c8776a2 <unknown>
-#7 0x560a9c878491 <unknown>
-#8 0x560a9cd8d479 <unknown>
-#9 0x560a9cd90391 <unknown>
-#10 0x560a9cd79a89 <unknown>
-#11 0x560a9cd90f4e <unknown>
-#12 0x560a9cd60070 <unknown>
-#13 0x560a9cdb4ca8 <unknown>
-#14 0x560a9cdb4e78 <unknown>
-#15 0x560a9cdc6828 <unknown>
-#16 0x7f868aa9caa4 <unknown>
-#17 0x7f868ab29c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".map"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x560a9cdc74ba <unknown>
-#1 0x560a9c830492 <unknown>
-#2 0x560a9c8859b6 <unknown>
-#3 0x560a9c885bf1 <unknown>
-#4 0x560a9c8d14d4 <unknown>
-#5 0x560a9c8ce700 <unknown>
-#6 0x560a9c8776a2 <unknown>
-#7 0x560a9c878491 <unknown>
-#8 0x560a9cd8d479 <unknown>
-#9 0x560a9cd90391 <unknown>
-#10 0x560a9cd79a89 <unknown>
-#11 0x560a9cd90f4e <unknown>
-#12 0x560a9cd60070 <unknown>
-#13 0x560a9cdb4ca8 <unknown>
-#14 0x560a9cdb4e78 <unknown>
-#15 0x560a9cdc6828 <unknown>
-#16 0x7f868aa9caa4 <unknown>
-#17 0x7f868ab29c6c <unknown>
-
-Timestamp: 2026-02-07 08:20:13.566749
+Reason: None
+Timestamp: 2026-02-09 18:10:33.946924

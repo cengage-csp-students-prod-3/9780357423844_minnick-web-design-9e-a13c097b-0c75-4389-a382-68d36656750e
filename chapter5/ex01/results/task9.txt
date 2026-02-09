@@ -1,98 +1,13 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Remove the `width` and `float` declarations for the `#piano`, `#guitar`, `#violin` style rule.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="piano"]"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5576458ac4ba <unknown>
-#1 0x557645315492 <unknown>
-#2 0x55764536a9b6 <unknown>
-#3 0x55764536abf1 <unknown>
-#4 0x5576453b64d4 <unknown>
-#5 0x5576453b3700 <unknown>
-#6 0x55764535c6a2 <unknown>
-#7 0x55764535d491 <unknown>
-#8 0x557645872479 <unknown>
-#9 0x557645875391 <unknown>
-#10 0x55764585ea89 <unknown>
-#11 0x557645875f4e <unknown>
-#12 0x557645845070 <unknown>
-#13 0x557645899ca8 <unknown>
-#14 0x557645899e78 <unknown>
-#15 0x5576458ab828 <unknown>
-#16 0x7f1ed409caa4 <unknown>
-#17 0x7f1ed4129c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="piano"]"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5576458ac4ba <unknown>
-#1 0x557645315492 <unknown>
-#2 0x55764536a9b6 <unknown>
-#3 0x55764536abf1 <unknown>
-#4 0x5576453b64d4 <unknown>
-#5 0x5576453b3700 <unknown>
-#6 0x55764535c6a2 <unknown>
-#7 0x55764535d491 <unknown>
-#8 0x557645872479 <unknown>
-#9 0x557645875391 <unknown>
-#10 0x55764585ea89 <unknown>
-#11 0x557645875f4e <unknown>
-#12 0x557645845070 <unknown>
-#13 0x557645899ca8 <unknown>
-#14 0x557645899e78 <unknown>
-#15 0x5576458ab828 <unknown>
-#16 0x7f1ed409caa4 <unknown>
-#17 0x7f1ed4129c6c <unknown>
-
-Timestamp: 2026-02-07 08:20:00.964372
+Reason: None
+Timestamp: 2026-02-09 18:10:27.358401
 
 Status: FAILED!
 Check: 2
 Test: Below the `#info` style rule, create a new style rule for the `#info ul` selector that specifies a left margin of **10%**.
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#info ul"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5576458ac4ba <unknown>
-#1 0x557645315492 <unknown>
-#2 0x55764536a9b6 <unknown>
-#3 0x55764536abf1 <unknown>
-#4 0x5576453b64d4 <unknown>
-#5 0x5576453b3700 <unknown>
-#6 0x55764535c6a2 <unknown>
-#7 0x55764535d491 <unknown>
-#8 0x557645872479 <unknown>
-#9 0x557645875391 <unknown>
-#10 0x55764585ea89 <unknown>
-#11 0x557645875f4e <unknown>
-#12 0x557645845070 <unknown>
-#13 0x557645899ca8 <unknown>
-#14 0x557645899e78 <unknown>
-#15 0x5576458ab828 <unknown>
-#16 0x7f1ed409caa4 <unknown>
-#17 0x7f1ed4129c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"#info ul"}
-  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x5576458ac4ba <unknown>
-#1 0x557645315492 <unknown>
-#2 0x55764536a9b6 <unknown>
-#3 0x55764536abf1 <unknown>
-#4 0x5576453b64d4 <unknown>
-#5 0x5576453b3700 <unknown>
-#6 0x55764535c6a2 <unknown>
-#7 0x55764535d491 <unknown>
-#8 0x557645872479 <unknown>
-#9 0x557645875391 <unknown>
-#10 0x55764585ea89 <unknown>
-#11 0x557645875f4e <unknown>
-#12 0x557645845070 <unknown>
-#13 0x557645899ca8 <unknown>
-#14 0x557645899e78 <unknown>
-#15 0x5576458ab828 <unknown>
-#16 0x7f1ed409caa4 <unknown>
-#17 0x7f1ed4129c6c <unknown>
-
-Timestamp: 2026-02-07 08:20:02.006484
+Reason: Assertion failed: The `#info ul` style rule does not specify a left margin of `10%`. Found:182.875px instead of 109.203px
+Error : AssertionError - The `#info ul` style rule does not specify a left margin of `10%`. Found:182.875px instead of 109.203px
+Timestamp: 2026-02-09 18:10:27.402576
