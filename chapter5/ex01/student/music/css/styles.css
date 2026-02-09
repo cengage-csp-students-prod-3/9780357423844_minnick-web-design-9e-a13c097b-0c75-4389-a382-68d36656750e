@@ -1,0 +1,172 @@
+/* CSS Reset - Task 07: Add ul to selector */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Body Styles */
+body {
+    background-color: #e6e6fa;
+    color: #373684;
+    font-family: 'Roboto', sans-serif; /* Task 06: Updated font */
+}
+
+/* Header Styles - Task 05 */
+header {
+    background-color: #373684;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.5em; /* Task 05: Updated font size */
+}
+
+header h1 {
+    font-family: 'DM Serif Display', serif; /* Task 06: Google Font */
+    /* Task 06: font-style italic removed */
+}
+
+/* Navigation Styles - Task 07 */
+nav {
+    background-color: #373684;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    /* Task 07: margin declaration removed */
+}
+
+nav li {
+    display: block; /* Task 07: Changed to block */
+    font-size: 1.5em;
+    font-weight: bold;
+    border-top: 1px solid #e5e9fc; /* Task 07: Added border */
+}
+
+nav li a {
+    display: block;
+    color: #fff;
+    padding: 0.5em 1em;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    color: #e6e6fa;
+}
+
+/* Main Content Styles */
+main {
+    padding: 2%;
+    overflow: auto;
+    font-family: 'Roboto', sans-serif; /* Task 06: Updated font */
+}
+
+/* Hero Image */
+#hero {
+    text-align: center;
+}
+
+#hero img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Action Class - Task 08 */
+.action {
+    font-size: 1.25em; /* Task 08: Updated font size */
+    color: #373684;
+    font-weight: bold;
+}
+
+/* Info Section Styles - Task 09 */
+#info {
+    margin: 20px 0;
+}
+
+#piano, #guitar, #violin {
+    margin: 20px 0;
+    padding: 15px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    /* Task 09: width and float declarations removed */
+}
+
+#info ul {
+    margin-left: 10%; /* Task 09: Added left margin */
+}
+
+/* Image Styles */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Style rules for mobile viewport - Task 04 */
+
+/* Hide tab-desk class - Task 04 */
+.tab-desk {
+    display: none; /* Task 04: Hide tab-desk elements */
+}
+
+/* Round Class for Images - Task 10 */
+.round {
+    border-radius: 8px; /* Task 10: Added border radius */
+}
+
+/* Contact Styles */
+#contact {
+    text-align: center;
+}
+
+/* Task 12: Updated email link selector */
+#contact .email-link {
+    color: #4645a8;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Task 12: Tel Link Styles */
+.tel-link {
+    background-color: #373684;
+    padding: 2%;
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.tel-link a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+    display: block;
+}
+
+/* Map Styles - Task 13 */
+.map {
+    border: 5px solid #373684;
+    width: 95%; /* Task 13: Added width */
+    height: 50%; /* Task 13: Added height */
+}
+
+.map iframe {
+    width: 100%;
+    height: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    background-color: #373684;
+    color: #fff;
+    padding: 1% 0%;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
