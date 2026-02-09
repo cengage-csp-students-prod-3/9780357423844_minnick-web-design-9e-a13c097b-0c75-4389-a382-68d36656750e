@@ -1,0 +1,14 @@
+
+Status: FAILED!
+Check: 1
+Test: remove the text, **Office:**, from the first paragraph element within the `main` `div` element.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
+Timestamp: 2026-02-09 18:51:10.352793
+
+Status: FAILED!
+Check: 2
+Test: Wrap the phone number within an anchor element that links to the phone number.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
+Timestamp: 2026-02-09 18:51:10.353015

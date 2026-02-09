@@ -1,0 +1,175 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the link to the google fonts in the head element of the index.html file.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/index.html'
+Timestamp: 2026-02-09 18:50:58.492535
+
+Status: FAILED!
+Check: 2
+Test: Add the link to the google fonts in the head element of the about.html file.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/about.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/about.html'
+Timestamp: 2026-02-09 18:50:58.493127
+
+Status: FAILED!
+Check: 3
+Test: Add the link to the google fonts in the head element of the contact.html file.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/contact.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/contact.html'
+Timestamp: 2026-02-09 18:50:58.493840
+
+Status: FAILED!
+Check: 4
+Test: Add the link to the google fonts in the head element of the template.html file.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/template.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/template.html'
+Timestamp: 2026-02-09 18:50:58.493983
+
+Status: FAILED!
+Check: 5
+Test: Add the style rule for the h1 selector within the mobile class in the styles.css file.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"header"}
+  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55d0099414ba <unknown>
+#1 0x55d0093aa492 <unknown>
+#2 0x55d0093ff9b6 <unknown>
+#3 0x55d0093ffbf1 <unknown>
+#4 0x55d00944b4d4 <unknown>
+#5 0x55d009448700 <unknown>
+#6 0x55d0093f16a2 <unknown>
+#7 0x55d0093f2491 <unknown>
+#8 0x55d009907479 <unknown>
+#9 0x55d00990a391 <unknown>
+#10 0x55d0098f3a89 <unknown>
+#11 0x55d00990af4e <unknown>
+#12 0x55d0098da070 <unknown>
+#13 0x55d00992eca8 <unknown>
+#14 0x55d00992ee78 <unknown>
+#15 0x55d009940828 <unknown>
+#16 0x7f361169caa4 <unknown>
+#17 0x7f3611729c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"header"}
+  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55d0099414ba <unknown>
+#1 0x55d0093aa492 <unknown>
+#2 0x55d0093ff9b6 <unknown>
+#3 0x55d0093ffbf1 <unknown>
+#4 0x55d00944b4d4 <unknown>
+#5 0x55d009448700 <unknown>
+#6 0x55d0093f16a2 <unknown>
+#7 0x55d0093f2491 <unknown>
+#8 0x55d009907479 <unknown>
+#9 0x55d00990a391 <unknown>
+#10 0x55d0098f3a89 <unknown>
+#11 0x55d00990af4e <unknown>
+#12 0x55d0098da070 <unknown>
+#13 0x55d00992eca8 <unknown>
+#14 0x55d00992ee78 <unknown>
+#15 0x55d009940828 <unknown>
+#16 0x7f361169caa4 <unknown>
+#17 0x7f3611729c6c <unknown>
+
+Timestamp: 2026-02-09 18:50:59.524324
+
+Status: FAILED!
+Check: 6
+Test: Add the style rule for the h3 selector within the mobile class in the styles.css file.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"header"}
+  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55d0099414ba <unknown>
+#1 0x55d0093aa492 <unknown>
+#2 0x55d0093ff9b6 <unknown>
+#3 0x55d0093ffbf1 <unknown>
+#4 0x55d00944b4d4 <unknown>
+#5 0x55d009448700 <unknown>
+#6 0x55d0093f16a2 <unknown>
+#7 0x55d0093f2491 <unknown>
+#8 0x55d009907479 <unknown>
+#9 0x55d00990a391 <unknown>
+#10 0x55d0098f3a89 <unknown>
+#11 0x55d00990af4e <unknown>
+#12 0x55d0098da070 <unknown>
+#13 0x55d00992eca8 <unknown>
+#14 0x55d00992ee78 <unknown>
+#15 0x55d009940828 <unknown>
+#16 0x7f361169caa4 <unknown>
+#17 0x7f3611729c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"header"}
+  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55d0099414ba <unknown>
+#1 0x55d0093aa492 <unknown>
+#2 0x55d0093ff9b6 <unknown>
+#3 0x55d0093ffbf1 <unknown>
+#4 0x55d00944b4d4 <unknown>
+#5 0x55d009448700 <unknown>
+#6 0x55d0093f16a2 <unknown>
+#7 0x55d0093f2491 <unknown>
+#8 0x55d009907479 <unknown>
+#9 0x55d00990a391 <unknown>
+#10 0x55d0098f3a89 <unknown>
+#11 0x55d00990af4e <unknown>
+#12 0x55d0098da070 <unknown>
+#13 0x55d00992eca8 <unknown>
+#14 0x55d00992ee78 <unknown>
+#15 0x55d009940828 <unknown>
+#16 0x7f361169caa4 <unknown>
+#17 0x7f3611729c6c <unknown>
+
+Timestamp: 2026-02-09 18:51:00.550351
+
+Status: FAILED!
+Check: 7
+Test: Add the style rule for the main selector in the styles.css file.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"main"}
+  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55d0099414ba <unknown>
+#1 0x55d0093aa492 <unknown>
+#2 0x55d0093ff9b6 <unknown>
+#3 0x55d0093ffbf1 <unknown>
+#4 0x55d00944b4d4 <unknown>
+#5 0x55d009448700 <unknown>
+#6 0x55d0093f16a2 <unknown>
+#7 0x55d0093f2491 <unknown>
+#8 0x55d009907479 <unknown>
+#9 0x55d00990a391 <unknown>
+#10 0x55d0098f3a89 <unknown>
+#11 0x55d00990af4e <unknown>
+#12 0x55d0098da070 <unknown>
+#13 0x55d00992eca8 <unknown>
+#14 0x55d00992ee78 <unknown>
+#15 0x55d009940828 <unknown>
+#16 0x7f361169caa4 <unknown>
+#17 0x7f3611729c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"main"}
+  (Session info: chrome=144.0.7559.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55d0099414ba <unknown>
+#1 0x55d0093aa492 <unknown>
+#2 0x55d0093ff9b6 <unknown>
+#3 0x55d0093ffbf1 <unknown>
+#4 0x55d00944b4d4 <unknown>
+#5 0x55d009448700 <unknown>
+#6 0x55d0093f16a2 <unknown>
+#7 0x55d0093f2491 <unknown>
+#8 0x55d009907479 <unknown>
+#9 0x55d00990a391 <unknown>
+#10 0x55d0098f3a89 <unknown>
+#11 0x55d00990af4e <unknown>
+#12 0x55d0098da070 <unknown>
+#13 0x55d00992eca8 <unknown>
+#14 0x55d00992ee78 <unknown>
+#15 0x55d009940828 <unknown>
+#16 0x7f361169caa4 <unknown>
+#17 0x7f3611729c6c <unknown>
+
+Timestamp: 2026-02-09 18:51:01.579711
