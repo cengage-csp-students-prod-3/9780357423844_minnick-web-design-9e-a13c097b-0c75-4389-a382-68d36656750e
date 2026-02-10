@@ -69,7 +69,12 @@ img {
 
 
 /* Style rules for header area */
-.mobile h1, .mobile h3 {
+.mobile h1 {
+    padding: 2%;
+    text-align: center;
+}
+
+.mobile h3 {
     padding: 2%;
     text-align: center;
 }
@@ -90,6 +95,7 @@ img {
 
 /* Tel-link styles - Task 12 */
 .tel-link {
+    background-color: #2a1f14;
     padding: 2%;
     width: 80%;
     margin: 0 auto;
