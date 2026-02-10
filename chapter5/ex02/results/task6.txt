@@ -3,40 +3,40 @@ Status: PASSED!
 Check: 1
 Test: Add the link to the google fonts in the head element of the index.html file.
 Reason: None
-Timestamp: 2026-02-10 06:26:15.073821
+Timestamp: 2026-02-10 06:29:35.845903
 
 Status: PASSED!
 Check: 2
 Test: Add the link to the google fonts in the head element of the about.html file.
 Reason: None
-Timestamp: 2026-02-10 06:26:15.076449
+Timestamp: 2026-02-10 06:29:35.848957
 
 Status: PASSED!
 Check: 3
 Test: Add the link to the google fonts in the head element of the contact.html file.
 Reason: None
-Timestamp: 2026-02-10 06:26:15.078674
+Timestamp: 2026-02-10 06:29:35.854217
 
 Status: PASSED!
 Check: 4
 Test: Add the link to the google fonts in the head element of the template.html file.
 Reason: None
-Timestamp: 2026-02-10 06:26:15.080303
+Timestamp: 2026-02-10 06:29:35.856663
 
 Status: PASSED!
 Check: 5
 Test: Add the style rule for the h1 selector within the mobile class in the styles.css file.
 Reason: None
-Timestamp: 2026-02-10 06:26:15.126525
+Timestamp: 2026-02-10 06:29:35.944382
 
 Status: PASSED!
 Check: 6
 Test: Add the style rule for the h3 selector within the mobile class in the styles.css file.
 Reason: None
-Timestamp: 2026-02-10 06:26:15.152779
+Timestamp: 2026-02-10 06:29:35.981202
 
 Status: PASSED!
 Check: 7
 Test: Add the style rule for the main selector in the styles.css file.
 Reason: None
-Timestamp: 2026-02-10 06:26:15.166110
+Timestamp: 2026-02-10 06:29:35.994678
