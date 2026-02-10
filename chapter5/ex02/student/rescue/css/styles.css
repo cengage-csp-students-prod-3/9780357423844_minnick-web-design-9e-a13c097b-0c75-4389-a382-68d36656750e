@@ -1,5 +1,5 @@
 /* CSS Reset */
-*, ul {
+body, header, nav, main, footer, img, h1, h3, ul {
     margin: 0;
     padding: 0;
     border: 0;
@@ -90,7 +90,6 @@ img {
 
 /* Tel-link styles - Task 12 */
 .tel-link {
-    background-color: #2a1f14;
     padding: 2%;
     width: 80%;
     margin: 0 auto;
