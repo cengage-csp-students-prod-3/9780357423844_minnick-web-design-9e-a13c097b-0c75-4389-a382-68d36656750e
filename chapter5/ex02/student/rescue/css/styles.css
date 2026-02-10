@@ -1,5 +1,5 @@
 /* CSS Reset */
-* {
+*, ul {
     margin: 0;
     padding: 0;
     border: 0;
@@ -47,6 +47,7 @@ nav li a {
 main {
     padding: 2%;
     overflow: auto;
+    font-family: 'Lora', serif;
 }
 
 /* Image Styles */
@@ -82,26 +83,12 @@ img {
     font-family: 'Lora', serif;
 }
 
-main {
-    font-family: 'Lora', serif;
-}
-
 /* Contact styles */
 #contact {
     text-align: center;
 }
 
-/* Round class for images - Task 09 */
-.round {
-    border-radius: 6px;
-}
-
-/* Info list styles - Task 10 */
-#info ul {
-    margin-left: 10%;
-}
-
-/* Tel-link styles */
+/* Tel-link styles - Task 12 */
 .tel-link {
     background-color: #2a1f14;
     padding: 2%;
@@ -113,6 +100,16 @@ main {
     color: #f6eee4;
     text-decoration: none;
     font-weight: bold;
+}
+
+/* Round class for images - Task 09 */
+.round {
+    border-radius: 6px;
+}
+
+/* Info list styles - Task 10 */
+#info ul {
+    margin-left: 10%;
 }
 
 /* Footer Styles */
