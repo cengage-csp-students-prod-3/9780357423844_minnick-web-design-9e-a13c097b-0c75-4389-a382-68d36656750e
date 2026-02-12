@@ -33,8 +33,7 @@ header {
 }
 
 header h1 {
-    font-family: 'DM Serif Display', serif; /* Task 06: Google Font */
-    /* Task 06: font-style italic removed */
+    font-family: 'DM Serif Display', serif;
 }
 
 /* Navigation Styles */
@@ -45,17 +44,16 @@ nav {
 nav ul {
     list-style-type: none;
     text-align: center;
-    /* Task 07: margin declaration removed */
 }
 
 nav li {
-    display: block; /* Task 07: Changed to block */
+    display: block;
     font-size: 1.5em;
     font-weight: bold;
-    border-top: 1px solid #e5e9fc; /* Task 07: Added border */
+    border-top: 1px solid #e5e9fc;
 }
 
-/* FIXED: Removed padding from here - now only in media queries */
+/* IMPORTANT: No padding here - padding only in media queries */
 nav li a {
     display: block;
     color: #fff;
@@ -71,7 +69,7 @@ nav li a:hover {
 main {
     padding: 2%;
     overflow: auto;
-    font-family: 'Roboto', sans-serif; /* Task 06: Updated font */
+    font-family: 'Roboto', sans-serif;
 }
 
 main p {
@@ -109,7 +107,6 @@ main ul {
     font-weight: bold;
     text-align: center; 
     color: #373684;
-    font-weight: bold;
 }
 
 /* Info Section Styles - Task 09 */
@@ -122,11 +119,10 @@ main ul {
     padding: 15px;
     background-color: #f0f0f0;
     border-radius: 5px;
-    /* Task 09: width and float declarations removed */
 }
 
 #info ul {
-    margin-left:10%; /* Task 09: Added left margin */
+    margin-left:10%;
 }
 
 /* Image Styles */
@@ -139,7 +135,7 @@ img {
 
 /* Hide tab-desk class - Task 04 */
 .tab-desk {
-    display: none; /* Task 04: Hide tab-desk elements */
+    display: none;
 }
 
 /* Round Class for Images - Task 10 */
@@ -180,8 +176,8 @@ img {
 /* Map Styles - Task 13 */
 .map {
     border: 5px solid #373684;
-    width: 95%; /* Task 13: Added width */
-    height: 50%; /* Task 13: Added height */
+    width: 95%;
+    height: 50%;
 }
 
 .map iframe {
@@ -234,7 +230,7 @@ footer a {
         border-right: none;
     }
 
-    /* FIXED: This will now work because padding was removed from outside rule */
+    /* Tablet Viewport: Style rule for nav li a - PADDING SET HERE */
     nav li a {
         padding: 0.25em 0.5em;
     }
@@ -255,7 +251,7 @@ footer a {
     }
 
     /* Desktop Viewport: Style rules for nav area */
-    /* FIXED: This will now work because padding was removed from outside rule */
+    /* Desktop Viewport: Style rule for nav li a - PADDING SET HERE */
     nav li a {
         padding: 0.5em 1.5em;
     }
