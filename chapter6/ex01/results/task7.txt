@@ -3,10 +3,11 @@ Status: PASSED!
 Check: 1
 Test: The comment was to the styles.css file.
 Reason: None
-Timestamp: 2026-02-12 23:37:36.246328
+Timestamp: 2026-02-12 23:51:42.147753
 
-Status: PASSED!
+Status: FAILED!
 Check: 2
 Test: The media query was added to the styles.css file.
-Reason: None
-Timestamp: 2026-02-12 23:37:36.246557
+Reason: Assertion failed: The media query was not found in the styles.css file. (@media screen and (min-width: 769px), print {)
+Error : AssertionError - The media query was not found in the styles.css file. (@media screen and (min-width: 769px), print {)
+Timestamp: 2026-02-12 23:51:42.147999
