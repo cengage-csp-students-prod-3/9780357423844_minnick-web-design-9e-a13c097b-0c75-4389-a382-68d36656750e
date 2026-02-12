@@ -53,7 +53,6 @@ nav li {
     border-top: 1px solid #e5e9fc;
 }
 
-/* IMPORTANT: No padding here - padding only in media queries */
 nav li a {
     display: block;
     color: #fff;
@@ -251,7 +250,6 @@ footer a {
     }
 
     /* Desktop Viewport: Style rules for nav area */
-    /* Desktop Viewport: Style rule for nav li a - PADDING SET HERE */
     nav li a {
         padding: 0.5em 1.5em;
     }
