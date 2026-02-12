@@ -99,7 +99,7 @@ main ul {
     max-width: 100%;
     height: auto;
 }
-s
+
 /* Action Class - Task 08 */
 .action {
     font-size: 1.75em;
@@ -231,7 +231,10 @@ footer a {
 
     /* Tablet Viewport: Style rule for nav li a - PADDING SET HERE */
     nav li a {
-        padding: 0.5em 0.25em;
+        padding-top: 0.25em;
+        padding-bottom: 0.25em;
+        padding-left: 0.5em;
+        padding-right: 0.5em;
     }
 
     /* Tablet Viewport: Style rule for map */
@@ -251,7 +254,10 @@ footer a {
 
     /* Desktop Viewport: Style rules for nav area */
     nav li a {
-        padding: 1.5em 0.5em;
+        padding-top: 0.5em;
+        padding-bottom: 0.5em;
+        padding-left: 1.5em;
+        padding-right: 1.5em;
     }
 
     nav li a:hover {
