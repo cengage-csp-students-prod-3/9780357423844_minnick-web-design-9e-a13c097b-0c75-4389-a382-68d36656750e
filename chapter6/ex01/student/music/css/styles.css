@@ -205,10 +205,10 @@ footer a {
     text-decoration: none;
 }
 
-/* Media Query for Table viewport */
+/* Media Query for Tablet Viewport */
 @media screen and (min-width: 550px), print {
 
-    /* Table viewport: show tab-desk class, hide mobile class */
+    /* Tablet Viewport: Show tab-desk class, hide mobile class */
     .tab-desk {
         display: block;
     }
@@ -217,12 +217,12 @@ footer a {
         display: none;
     }
 
-    /* Table viewport: style rule for header content */
+    /* Tablet Viewport: Style rule for header content */
     span.tab-desk {
         display: inline;
     }
 
-    /* Table viewport: style rule for nav area */
+    /* Tablet Viewport: Style rules for nav area */
     nav li {
         border-top: none;
         display: inline-block;
@@ -238,22 +238,22 @@ footer a {
         padding: 0.25em 0.5em;
     }
 
-    /* Tablet viewport: style rule for map */
+    /* Tablet Viewport: Style rule for map */
     .map {
         width: 500px;
         height: 450px;
     }
 }
 
-/* Media Query for Desktop viewport */
+/* Media Query for Desktop Viewport */
 @media screen and (min-width: 769px), print {
 
-    /* Desktop viewport: style rule for header */
+    /* Desktop Viewport: Style rule for header */
     header {
         padding: 2%;
     }
 
-    /* Desktop viewport: style rule for nav area */
+    /* Desktop Viewport: Style rules for nav area */
     nav li a {
         padding: 0.5em 1.5em;
     }
@@ -263,7 +263,7 @@ footer a {
         background-color: #e5e9fc;
     }
 
-    /* Desktop viewport: style rule for main content */
+    /* Desktop Viewport: Style rules for main content */
     #info ul {
         margin-left: 5%;
     }
