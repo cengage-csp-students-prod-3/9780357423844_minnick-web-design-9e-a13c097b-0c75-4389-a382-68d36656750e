@@ -55,6 +55,7 @@ nav li {
     border-top: 1px solid #e5e9fc; /* Task 07: Added border */
 }
 
+/* FIXED: Removed padding from here - now only in media queries */
 nav li a {
     display: block;
     color: #fff;
@@ -233,6 +234,7 @@ footer a {
         border-right: none;
     }
 
+    /* FIXED: This will now work because padding was removed from outside rule */
     nav li a {
         padding: 0.25em 0.5em;
     }
@@ -253,6 +255,7 @@ footer a {
     }
 
     /* Desktop Viewport: Style rules for nav area */
+    /* FIXED: This will now work because padding was removed from outside rule */
     nav li a {
         padding: 0.5em 1.5em;
     }
