@@ -5,48 +5,48 @@ Test: Add the `mobile` class attribute to the `p` element with the class attribu
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tel-link.round.mobile"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c449952a4a <unknown>
-#1 0x55c44936b6a2 <unknown>
-#2 0x55c4493c0a8d <unknown>
-#3 0x55c4493c0cd1 <unknown>
-#4 0x55c44940c5c4 <unknown>
-#5 0x55c4494097f0 <unknown>
-#6 0x55c4493b28b2 <unknown>
-#7 0x55c4493b36a1 <unknown>
-#8 0x55c4499188a9 <unknown>
-#9 0x55c44991b7b1 <unknown>
-#10 0x55c449904ea9 <unknown>
-#11 0x55c44991c36e <unknown>
-#12 0x55c4498eb410 <unknown>
-#13 0x55c4499400c8 <unknown>
-#14 0x55c44994029b <unknown>
-#15 0x55c449951db8 <unknown>
-#16 0x7f9739e9caa4 <unknown>
-#17 0x7f9739f29c6c <unknown>
+#0 0x55e588330a4a <unknown>
+#1 0x55e587d496a2 <unknown>
+#2 0x55e587d9ea8d <unknown>
+#3 0x55e587d9ecd1 <unknown>
+#4 0x55e587dea5c4 <unknown>
+#5 0x55e587de77f0 <unknown>
+#6 0x55e587d908b2 <unknown>
+#7 0x55e587d916a1 <unknown>
+#8 0x55e5882f68a9 <unknown>
+#9 0x55e5882f97b1 <unknown>
+#10 0x55e5882e2ea9 <unknown>
+#11 0x55e5882fa36e <unknown>
+#12 0x55e5882c9410 <unknown>
+#13 0x55e58831e0c8 <unknown>
+#14 0x55e58831e29b <unknown>
+#15 0x55e58832fdb8 <unknown>
+#16 0x7fe05b29caa4 <unknown>
+#17 0x7fe05b329c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tel-link.round.mobile"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c449952a4a <unknown>
-#1 0x55c44936b6a2 <unknown>
-#2 0x55c4493c0a8d <unknown>
-#3 0x55c4493c0cd1 <unknown>
-#4 0x55c44940c5c4 <unknown>
-#5 0x55c4494097f0 <unknown>
-#6 0x55c4493b28b2 <unknown>
-#7 0x55c4493b36a1 <unknown>
-#8 0x55c4499188a9 <unknown>
-#9 0x55c44991b7b1 <unknown>
-#10 0x55c449904ea9 <unknown>
-#11 0x55c44991c36e <unknown>
-#12 0x55c4498eb410 <unknown>
-#13 0x55c4499400c8 <unknown>
-#14 0x55c44994029b <unknown>
-#15 0x55c449951db8 <unknown>
-#16 0x7f9739e9caa4 <unknown>
-#17 0x7f9739f29c6c <unknown>
+#0 0x55e588330a4a <unknown>
+#1 0x55e587d496a2 <unknown>
+#2 0x55e587d9ea8d <unknown>
+#3 0x55e587d9ecd1 <unknown>
+#4 0x55e587dea5c4 <unknown>
+#5 0x55e587de77f0 <unknown>
+#6 0x55e587d908b2 <unknown>
+#7 0x55e587d916a1 <unknown>
+#8 0x55e5882f68a9 <unknown>
+#9 0x55e5882f97b1 <unknown>
+#10 0x55e5882e2ea9 <unknown>
+#11 0x55e5882fa36e <unknown>
+#12 0x55e5882c9410 <unknown>
+#13 0x55e58831e0c8 <unknown>
+#14 0x55e58831e29b <unknown>
+#15 0x55e58832fdb8 <unknown>
+#16 0x7fe05b29caa4 <unknown>
+#17 0x7fe05b329c6c <unknown>
 
-Timestamp: 2026-02-14 06:08:53.754295
+Timestamp: 2026-02-14 06:36:34.832818
 
 Status: FAILED!
 Check: 2
@@ -54,48 +54,48 @@ Test: Insert a new paragraph element with the `tab-desk` class
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c449952a4a <unknown>
-#1 0x55c44936b6a2 <unknown>
-#2 0x55c4493c0a8d <unknown>
-#3 0x55c4493c0cd1 <unknown>
-#4 0x55c44940c5c4 <unknown>
-#5 0x55c4494097f0 <unknown>
-#6 0x55c4493b28b2 <unknown>
-#7 0x55c4493b36a1 <unknown>
-#8 0x55c4499188a9 <unknown>
-#9 0x55c44991b7b1 <unknown>
-#10 0x55c449904ea9 <unknown>
-#11 0x55c44991c36e <unknown>
-#12 0x55c4498eb410 <unknown>
-#13 0x55c4499400c8 <unknown>
-#14 0x55c44994029b <unknown>
-#15 0x55c449951db8 <unknown>
-#16 0x7f9739e9caa4 <unknown>
-#17 0x7f9739f29c6c <unknown>
+#0 0x55e588330a4a <unknown>
+#1 0x55e587d496a2 <unknown>
+#2 0x55e587d9ea8d <unknown>
+#3 0x55e587d9ecd1 <unknown>
+#4 0x55e587dea5c4 <unknown>
+#5 0x55e587de77f0 <unknown>
+#6 0x55e587d908b2 <unknown>
+#7 0x55e587d916a1 <unknown>
+#8 0x55e5882f68a9 <unknown>
+#9 0x55e5882f97b1 <unknown>
+#10 0x55e5882e2ea9 <unknown>
+#11 0x55e5882fa36e <unknown>
+#12 0x55e5882c9410 <unknown>
+#13 0x55e58831e0c8 <unknown>
+#14 0x55e58831e29b <unknown>
+#15 0x55e58832fdb8 <unknown>
+#16 0x7fe05b29caa4 <unknown>
+#17 0x7fe05b329c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c449952a4a <unknown>
-#1 0x55c44936b6a2 <unknown>
-#2 0x55c4493c0a8d <unknown>
-#3 0x55c4493c0cd1 <unknown>
-#4 0x55c44940c5c4 <unknown>
-#5 0x55c4494097f0 <unknown>
-#6 0x55c4493b28b2 <unknown>
-#7 0x55c4493b36a1 <unknown>
-#8 0x55c4499188a9 <unknown>
-#9 0x55c44991b7b1 <unknown>
-#10 0x55c449904ea9 <unknown>
-#11 0x55c44991c36e <unknown>
-#12 0x55c4498eb410 <unknown>
-#13 0x55c4499400c8 <unknown>
-#14 0x55c44994029b <unknown>
-#15 0x55c449951db8 <unknown>
-#16 0x7f9739e9caa4 <unknown>
-#17 0x7f9739f29c6c <unknown>
+#0 0x55e588330a4a <unknown>
+#1 0x55e587d496a2 <unknown>
+#2 0x55e587d9ea8d <unknown>
+#3 0x55e587d9ecd1 <unknown>
+#4 0x55e587dea5c4 <unknown>
+#5 0x55e587de77f0 <unknown>
+#6 0x55e587d908b2 <unknown>
+#7 0x55e587d916a1 <unknown>
+#8 0x55e5882f68a9 <unknown>
+#9 0x55e5882f97b1 <unknown>
+#10 0x55e5882e2ea9 <unknown>
+#11 0x55e5882fa36e <unknown>
+#12 0x55e5882c9410 <unknown>
+#13 0x55e58831e0c8 <unknown>
+#14 0x55e58831e29b <unknown>
+#15 0x55e58832fdb8 <unknown>
+#16 0x7fe05b29caa4 <unknown>
+#17 0x7fe05b329c6c <unknown>
 
-Timestamp: 2026-02-14 06:08:54.791722
+Timestamp: 2026-02-14 06:36:35.871645
 
 Status: FAILED!
 Check: 3
@@ -103,45 +103,45 @@ Test: Wrap the phone number, (814) 555-8989, within the `tab-desk` paragraph ele
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c449952a4a <unknown>
-#1 0x55c44936b6a2 <unknown>
-#2 0x55c4493c0a8d <unknown>
-#3 0x55c4493c0cd1 <unknown>
-#4 0x55c44940c5c4 <unknown>
-#5 0x55c4494097f0 <unknown>
-#6 0x55c4493b28b2 <unknown>
-#7 0x55c4493b36a1 <unknown>
-#8 0x55c4499188a9 <unknown>
-#9 0x55c44991b7b1 <unknown>
-#10 0x55c449904ea9 <unknown>
-#11 0x55c44991c36e <unknown>
-#12 0x55c4498eb410 <unknown>
-#13 0x55c4499400c8 <unknown>
-#14 0x55c44994029b <unknown>
-#15 0x55c449951db8 <unknown>
-#16 0x7f9739e9caa4 <unknown>
-#17 0x7f9739f29c6c <unknown>
+#0 0x55e588330a4a <unknown>
+#1 0x55e587d496a2 <unknown>
+#2 0x55e587d9ea8d <unknown>
+#3 0x55e587d9ecd1 <unknown>
+#4 0x55e587dea5c4 <unknown>
+#5 0x55e587de77f0 <unknown>
+#6 0x55e587d908b2 <unknown>
+#7 0x55e587d916a1 <unknown>
+#8 0x55e5882f68a9 <unknown>
+#9 0x55e5882f97b1 <unknown>
+#10 0x55e5882e2ea9 <unknown>
+#11 0x55e5882fa36e <unknown>
+#12 0x55e5882c9410 <unknown>
+#13 0x55e58831e0c8 <unknown>
+#14 0x55e58831e29b <unknown>
+#15 0x55e58832fdb8 <unknown>
+#16 0x7fe05b29caa4 <unknown>
+#17 0x7fe05b329c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"p.tab-desk"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55c449952a4a <unknown>
-#1 0x55c44936b6a2 <unknown>
-#2 0x55c4493c0a8d <unknown>
-#3 0x55c4493c0cd1 <unknown>
-#4 0x55c44940c5c4 <unknown>
-#5 0x55c4494097f0 <unknown>
-#6 0x55c4493b28b2 <unknown>
-#7 0x55c4493b36a1 <unknown>
-#8 0x55c4499188a9 <unknown>
-#9 0x55c44991b7b1 <unknown>
-#10 0x55c449904ea9 <unknown>
-#11 0x55c44991c36e <unknown>
-#12 0x55c4498eb410 <unknown>
-#13 0x55c4499400c8 <unknown>
-#14 0x55c44994029b <unknown>
-#15 0x55c449951db8 <unknown>
-#16 0x7f9739e9caa4 <unknown>
-#17 0x7f9739f29c6c <unknown>
+#0 0x55e588330a4a <unknown>
+#1 0x55e587d496a2 <unknown>
+#2 0x55e587d9ea8d <unknown>
+#3 0x55e587d9ecd1 <unknown>
+#4 0x55e587dea5c4 <unknown>
+#5 0x55e587de77f0 <unknown>
+#6 0x55e587d908b2 <unknown>
+#7 0x55e587d916a1 <unknown>
+#8 0x55e5882f68a9 <unknown>
+#9 0x55e5882f97b1 <unknown>
+#10 0x55e5882e2ea9 <unknown>
+#11 0x55e5882fa36e <unknown>
+#12 0x55e5882c9410 <unknown>
+#13 0x55e58831e0c8 <unknown>
+#14 0x55e58831e29b <unknown>
+#15 0x55e58832fdb8 <unknown>
+#16 0x7fe05b29caa4 <unknown>
+#17 0x7fe05b329c6c <unknown>
 
-Timestamp: 2026-02-14 06:08:55.824399
+Timestamp: 2026-02-14 06:36:36.907145

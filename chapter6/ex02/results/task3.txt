@@ -5,48 +5,48 @@ Test: Style rule for the `nav li` selector that removes the top border
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55ab23227a4a <unknown>
-#1 0x55ab22c406a2 <unknown>
-#2 0x55ab22c95a8d <unknown>
-#3 0x55ab22c95cd1 <unknown>
-#4 0x55ab22ce15c4 <unknown>
-#5 0x55ab22cde7f0 <unknown>
-#6 0x55ab22c878b2 <unknown>
-#7 0x55ab22c886a1 <unknown>
-#8 0x55ab231ed8a9 <unknown>
-#9 0x55ab231f07b1 <unknown>
-#10 0x55ab231d9ea9 <unknown>
-#11 0x55ab231f136e <unknown>
-#12 0x55ab231c0410 <unknown>
-#13 0x55ab232150c8 <unknown>
-#14 0x55ab2321529b <unknown>
-#15 0x55ab23226db8 <unknown>
-#16 0x7f0d4389caa4 <unknown>
-#17 0x7f0d43929c6c <unknown>
+#0 0x5609c2917a4a <unknown>
+#1 0x5609c23306a2 <unknown>
+#2 0x5609c2385a8d <unknown>
+#3 0x5609c2385cd1 <unknown>
+#4 0x5609c23d15c4 <unknown>
+#5 0x5609c23ce7f0 <unknown>
+#6 0x5609c23778b2 <unknown>
+#7 0x5609c23786a1 <unknown>
+#8 0x5609c28dd8a9 <unknown>
+#9 0x5609c28e07b1 <unknown>
+#10 0x5609c28c9ea9 <unknown>
+#11 0x5609c28e136e <unknown>
+#12 0x5609c28b0410 <unknown>
+#13 0x5609c29050c8 <unknown>
+#14 0x5609c290529b <unknown>
+#15 0x5609c2916db8 <unknown>
+#16 0x7fde93c9caa4 <unknown>
+#17 0x7fde93d29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55ab23227a4a <unknown>
-#1 0x55ab22c406a2 <unknown>
-#2 0x55ab22c95a8d <unknown>
-#3 0x55ab22c95cd1 <unknown>
-#4 0x55ab22ce15c4 <unknown>
-#5 0x55ab22cde7f0 <unknown>
-#6 0x55ab22c878b2 <unknown>
-#7 0x55ab22c886a1 <unknown>
-#8 0x55ab231ed8a9 <unknown>
-#9 0x55ab231f07b1 <unknown>
-#10 0x55ab231d9ea9 <unknown>
-#11 0x55ab231f136e <unknown>
-#12 0x55ab231c0410 <unknown>
-#13 0x55ab232150c8 <unknown>
-#14 0x55ab2321529b <unknown>
-#15 0x55ab23226db8 <unknown>
-#16 0x7f0d4389caa4 <unknown>
-#17 0x7f0d43929c6c <unknown>
+#0 0x5609c2917a4a <unknown>
+#1 0x5609c23306a2 <unknown>
+#2 0x5609c2385a8d <unknown>
+#3 0x5609c2385cd1 <unknown>
+#4 0x5609c23d15c4 <unknown>
+#5 0x5609c23ce7f0 <unknown>
+#6 0x5609c23778b2 <unknown>
+#7 0x5609c23786a1 <unknown>
+#8 0x5609c28dd8a9 <unknown>
+#9 0x5609c28e07b1 <unknown>
+#10 0x5609c28c9ea9 <unknown>
+#11 0x5609c28e136e <unknown>
+#12 0x5609c28b0410 <unknown>
+#13 0x5609c29050c8 <unknown>
+#14 0x5609c290529b <unknown>
+#15 0x5609c2916db8 <unknown>
+#16 0x7fde93c9caa4 <unknown>
+#17 0x7fde93d29c6c <unknown>
 
-Timestamp: 2026-02-14 06:08:48.729060
+Timestamp: 2026-02-14 06:36:29.789998
 
 Status: FAILED!
 Check: 2
@@ -54,48 +54,48 @@ Test: Style rule for the `nav li` selector that sets the display to an inline-bl
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55ab23227a4a <unknown>
-#1 0x55ab22c406a2 <unknown>
-#2 0x55ab22c95a8d <unknown>
-#3 0x55ab22c95cd1 <unknown>
-#4 0x55ab22ce15c4 <unknown>
-#5 0x55ab22cde7f0 <unknown>
-#6 0x55ab22c878b2 <unknown>
-#7 0x55ab22c886a1 <unknown>
-#8 0x55ab231ed8a9 <unknown>
-#9 0x55ab231f07b1 <unknown>
-#10 0x55ab231d9ea9 <unknown>
-#11 0x55ab231f136e <unknown>
-#12 0x55ab231c0410 <unknown>
-#13 0x55ab232150c8 <unknown>
-#14 0x55ab2321529b <unknown>
-#15 0x55ab23226db8 <unknown>
-#16 0x7f0d4389caa4 <unknown>
-#17 0x7f0d43929c6c <unknown>
+#0 0x5609c2917a4a <unknown>
+#1 0x5609c23306a2 <unknown>
+#2 0x5609c2385a8d <unknown>
+#3 0x5609c2385cd1 <unknown>
+#4 0x5609c23d15c4 <unknown>
+#5 0x5609c23ce7f0 <unknown>
+#6 0x5609c23778b2 <unknown>
+#7 0x5609c23786a1 <unknown>
+#8 0x5609c28dd8a9 <unknown>
+#9 0x5609c28e07b1 <unknown>
+#10 0x5609c28c9ea9 <unknown>
+#11 0x5609c28e136e <unknown>
+#12 0x5609c28b0410 <unknown>
+#13 0x5609c29050c8 <unknown>
+#14 0x5609c290529b <unknown>
+#15 0x5609c2916db8 <unknown>
+#16 0x7fde93c9caa4 <unknown>
+#17 0x7fde93d29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55ab23227a4a <unknown>
-#1 0x55ab22c406a2 <unknown>
-#2 0x55ab22c95a8d <unknown>
-#3 0x55ab22c95cd1 <unknown>
-#4 0x55ab22ce15c4 <unknown>
-#5 0x55ab22cde7f0 <unknown>
-#6 0x55ab22c878b2 <unknown>
-#7 0x55ab22c886a1 <unknown>
-#8 0x55ab231ed8a9 <unknown>
-#9 0x55ab231f07b1 <unknown>
-#10 0x55ab231d9ea9 <unknown>
-#11 0x55ab231f136e <unknown>
-#12 0x55ab231c0410 <unknown>
-#13 0x55ab232150c8 <unknown>
-#14 0x55ab2321529b <unknown>
-#15 0x55ab23226db8 <unknown>
-#16 0x7f0d4389caa4 <unknown>
-#17 0x7f0d43929c6c <unknown>
+#0 0x5609c2917a4a <unknown>
+#1 0x5609c23306a2 <unknown>
+#2 0x5609c2385a8d <unknown>
+#3 0x5609c2385cd1 <unknown>
+#4 0x5609c23d15c4 <unknown>
+#5 0x5609c23ce7f0 <unknown>
+#6 0x5609c23778b2 <unknown>
+#7 0x5609c23786a1 <unknown>
+#8 0x5609c28dd8a9 <unknown>
+#9 0x5609c28e07b1 <unknown>
+#10 0x5609c28c9ea9 <unknown>
+#11 0x5609c28e136e <unknown>
+#12 0x5609c28b0410 <unknown>
+#13 0x5609c29050c8 <unknown>
+#14 0x5609c290529b <unknown>
+#15 0x5609c2916db8 <unknown>
+#16 0x7fde93c9caa4 <unknown>
+#17 0x7fde93d29c6c <unknown>
 
-Timestamp: 2026-02-14 06:08:49.763804
+Timestamp: 2026-02-14 06:36:30.825643
 
 Status: FAILED!
 Check: 3
@@ -103,48 +103,48 @@ Test: Style rule for the `nav li` selector that sets the font-size to 1.25em
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55ab23227a4a <unknown>
-#1 0x55ab22c406a2 <unknown>
-#2 0x55ab22c95a8d <unknown>
-#3 0x55ab22c95cd1 <unknown>
-#4 0x55ab22ce15c4 <unknown>
-#5 0x55ab22cde7f0 <unknown>
-#6 0x55ab22c878b2 <unknown>
-#7 0x55ab22c886a1 <unknown>
-#8 0x55ab231ed8a9 <unknown>
-#9 0x55ab231f07b1 <unknown>
-#10 0x55ab231d9ea9 <unknown>
-#11 0x55ab231f136e <unknown>
-#12 0x55ab231c0410 <unknown>
-#13 0x55ab232150c8 <unknown>
-#14 0x55ab2321529b <unknown>
-#15 0x55ab23226db8 <unknown>
-#16 0x7f0d4389caa4 <unknown>
-#17 0x7f0d43929c6c <unknown>
+#0 0x5609c2917a4a <unknown>
+#1 0x5609c23306a2 <unknown>
+#2 0x5609c2385a8d <unknown>
+#3 0x5609c2385cd1 <unknown>
+#4 0x5609c23d15c4 <unknown>
+#5 0x5609c23ce7f0 <unknown>
+#6 0x5609c23778b2 <unknown>
+#7 0x5609c23786a1 <unknown>
+#8 0x5609c28dd8a9 <unknown>
+#9 0x5609c28e07b1 <unknown>
+#10 0x5609c28c9ea9 <unknown>
+#11 0x5609c28e136e <unknown>
+#12 0x5609c28b0410 <unknown>
+#13 0x5609c29050c8 <unknown>
+#14 0x5609c290529b <unknown>
+#15 0x5609c2916db8 <unknown>
+#16 0x7fde93c9caa4 <unknown>
+#17 0x7fde93d29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55ab23227a4a <unknown>
-#1 0x55ab22c406a2 <unknown>
-#2 0x55ab22c95a8d <unknown>
-#3 0x55ab22c95cd1 <unknown>
-#4 0x55ab22ce15c4 <unknown>
-#5 0x55ab22cde7f0 <unknown>
-#6 0x55ab22c878b2 <unknown>
-#7 0x55ab22c886a1 <unknown>
-#8 0x55ab231ed8a9 <unknown>
-#9 0x55ab231f07b1 <unknown>
-#10 0x55ab231d9ea9 <unknown>
-#11 0x55ab231f136e <unknown>
-#12 0x55ab231c0410 <unknown>
-#13 0x55ab232150c8 <unknown>
-#14 0x55ab2321529b <unknown>
-#15 0x55ab23226db8 <unknown>
-#16 0x7f0d4389caa4 <unknown>
-#17 0x7f0d43929c6c <unknown>
+#0 0x5609c2917a4a <unknown>
+#1 0x5609c23306a2 <unknown>
+#2 0x5609c2385a8d <unknown>
+#3 0x5609c2385cd1 <unknown>
+#4 0x5609c23d15c4 <unknown>
+#5 0x5609c23ce7f0 <unknown>
+#6 0x5609c23778b2 <unknown>
+#7 0x5609c23786a1 <unknown>
+#8 0x5609c28dd8a9 <unknown>
+#9 0x5609c28e07b1 <unknown>
+#10 0x5609c28c9ea9 <unknown>
+#11 0x5609c28e136e <unknown>
+#12 0x5609c28b0410 <unknown>
+#13 0x5609c29050c8 <unknown>
+#14 0x5609c290529b <unknown>
+#15 0x5609c2916db8 <unknown>
+#16 0x7fde93c9caa4 <unknown>
+#17 0x7fde93d29c6c <unknown>
 
-Timestamp: 2026-02-14 06:08:50.811335
+Timestamp: 2026-02-14 06:36:31.861296
 
 Status: FAILED!
 Check: 4
@@ -152,45 +152,45 @@ Test: Style rule for the `nav li a` selector that sets the padding to 0.5em
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55ab23227a4a <unknown>
-#1 0x55ab22c406a2 <unknown>
-#2 0x55ab22c95a8d <unknown>
-#3 0x55ab22c95cd1 <unknown>
-#4 0x55ab22ce15c4 <unknown>
-#5 0x55ab22cde7f0 <unknown>
-#6 0x55ab22c878b2 <unknown>
-#7 0x55ab22c886a1 <unknown>
-#8 0x55ab231ed8a9 <unknown>
-#9 0x55ab231f07b1 <unknown>
-#10 0x55ab231d9ea9 <unknown>
-#11 0x55ab231f136e <unknown>
-#12 0x55ab231c0410 <unknown>
-#13 0x55ab232150c8 <unknown>
-#14 0x55ab2321529b <unknown>
-#15 0x55ab23226db8 <unknown>
-#16 0x7f0d4389caa4 <unknown>
-#17 0x7f0d43929c6c <unknown>
+#0 0x5609c2917a4a <unknown>
+#1 0x5609c23306a2 <unknown>
+#2 0x5609c2385a8d <unknown>
+#3 0x5609c2385cd1 <unknown>
+#4 0x5609c23d15c4 <unknown>
+#5 0x5609c23ce7f0 <unknown>
+#6 0x5609c23778b2 <unknown>
+#7 0x5609c23786a1 <unknown>
+#8 0x5609c28dd8a9 <unknown>
+#9 0x5609c28e07b1 <unknown>
+#10 0x5609c28c9ea9 <unknown>
+#11 0x5609c28e136e <unknown>
+#12 0x5609c28b0410 <unknown>
+#13 0x5609c29050c8 <unknown>
+#14 0x5609c290529b <unknown>
+#15 0x5609c2916db8 <unknown>
+#16 0x7fde93c9caa4 <unknown>
+#17 0x7fde93d29c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"nav li a"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55ab23227a4a <unknown>
-#1 0x55ab22c406a2 <unknown>
-#2 0x55ab22c95a8d <unknown>
-#3 0x55ab22c95cd1 <unknown>
-#4 0x55ab22ce15c4 <unknown>
-#5 0x55ab22cde7f0 <unknown>
-#6 0x55ab22c878b2 <unknown>
-#7 0x55ab22c886a1 <unknown>
-#8 0x55ab231ed8a9 <unknown>
-#9 0x55ab231f07b1 <unknown>
-#10 0x55ab231d9ea9 <unknown>
-#11 0x55ab231f136e <unknown>
-#12 0x55ab231c0410 <unknown>
-#13 0x55ab232150c8 <unknown>
-#14 0x55ab2321529b <unknown>
-#15 0x55ab23226db8 <unknown>
-#16 0x7f0d4389caa4 <unknown>
-#17 0x7f0d43929c6c <unknown>
+#0 0x5609c2917a4a <unknown>
+#1 0x5609c23306a2 <unknown>
+#2 0x5609c2385a8d <unknown>
+#3 0x5609c2385cd1 <unknown>
+#4 0x5609c23d15c4 <unknown>
+#5 0x5609c23ce7f0 <unknown>
+#6 0x5609c23778b2 <unknown>
+#7 0x5609c23786a1 <unknown>
+#8 0x5609c28dd8a9 <unknown>
+#9 0x5609c28e07b1 <unknown>
+#10 0x5609c28c9ea9 <unknown>
+#11 0x5609c28e136e <unknown>
+#12 0x5609c28b0410 <unknown>
+#13 0x5609c29050c8 <unknown>
+#14 0x5609c290529b <unknown>
+#15 0x5609c2916db8 <unknown>
+#16 0x7fde93c9caa4 <unknown>
+#17 0x7fde93d29c6c <unknown>
 
-Timestamp: 2026-02-14 06:08:51.839463
+Timestamp: 2026-02-14 06:36:32.889958
