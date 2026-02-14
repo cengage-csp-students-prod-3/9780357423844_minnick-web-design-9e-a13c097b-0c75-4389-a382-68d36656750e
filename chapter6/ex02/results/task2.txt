@@ -1,0 +1,112 @@
+
+Status: FAILED!
+Check: 1
+Test: Add the following comment to the tablet media query:  Tablet Viewport: Show tab-desk class, hide `mobile` class 
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/css/styles.css'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/css/styles.css'
+Timestamp: 2026-02-14 07:04:56.501515
+
+Status: FAILED!
+Check: 2
+Test: Add the following comment to the tablet media query:  Tablet Viewport: Style rules for nav area
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/css/styles.css'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/css/styles.css'
+Timestamp: 2026-02-14 07:04:56.501799
+
+Status: FAILED!
+Check: 3
+Test: Add the style rule for the `tab-desk` class selector that sets the `display` to a block.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".tab-desk"}
+  (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55e9aa3b6a4a <unknown>
+#1 0x55e9a9dcf6a2 <unknown>
+#2 0x55e9a9e24a8d <unknown>
+#3 0x55e9a9e24cd1 <unknown>
+#4 0x55e9a9e705c4 <unknown>
+#5 0x55e9a9e6d7f0 <unknown>
+#6 0x55e9a9e168b2 <unknown>
+#7 0x55e9a9e176a1 <unknown>
+#8 0x55e9aa37c8a9 <unknown>
+#9 0x55e9aa37f7b1 <unknown>
+#10 0x55e9aa368ea9 <unknown>
+#11 0x55e9aa38036e <unknown>
+#12 0x55e9aa34f410 <unknown>
+#13 0x55e9aa3a40c8 <unknown>
+#14 0x55e9aa3a429b <unknown>
+#15 0x55e9aa3b5db8 <unknown>
+#16 0x7f29f4e9caa4 <unknown>
+#17 0x7f29f4f29c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".tab-desk"}
+  (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55e9aa3b6a4a <unknown>
+#1 0x55e9a9dcf6a2 <unknown>
+#2 0x55e9a9e24a8d <unknown>
+#3 0x55e9a9e24cd1 <unknown>
+#4 0x55e9a9e705c4 <unknown>
+#5 0x55e9a9e6d7f0 <unknown>
+#6 0x55e9a9e168b2 <unknown>
+#7 0x55e9a9e176a1 <unknown>
+#8 0x55e9aa37c8a9 <unknown>
+#9 0x55e9aa37f7b1 <unknown>
+#10 0x55e9aa368ea9 <unknown>
+#11 0x55e9aa38036e <unknown>
+#12 0x55e9aa34f410 <unknown>
+#13 0x55e9aa3a40c8 <unknown>
+#14 0x55e9aa3a429b <unknown>
+#15 0x55e9aa3b5db8 <unknown>
+#16 0x7f29f4e9caa4 <unknown>
+#17 0x7f29f4f29c6c <unknown>
+
+Timestamp: 2026-02-14 07:04:57.516636
+
+Status: FAILED!
+Check: 4
+Test: Add the style rule for the `mobile` class selector that sets the `display` to none.
+Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".mobile"}
+  (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55e9aa3b6a4a <unknown>
+#1 0x55e9a9dcf6a2 <unknown>
+#2 0x55e9a9e24a8d <unknown>
+#3 0x55e9a9e24cd1 <unknown>
+#4 0x55e9a9e705c4 <unknown>
+#5 0x55e9a9e6d7f0 <unknown>
+#6 0x55e9a9e168b2 <unknown>
+#7 0x55e9a9e176a1 <unknown>
+#8 0x55e9aa37c8a9 <unknown>
+#9 0x55e9aa37f7b1 <unknown>
+#10 0x55e9aa368ea9 <unknown>
+#11 0x55e9aa38036e <unknown>
+#12 0x55e9aa34f410 <unknown>
+#13 0x55e9aa3a40c8 <unknown>
+#14 0x55e9aa3a429b <unknown>
+#15 0x55e9aa3b5db8 <unknown>
+#16 0x7f29f4e9caa4 <unknown>
+#17 0x7f29f4f29c6c <unknown>
+
+Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".mobile"}
+  (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+#0 0x55e9aa3b6a4a <unknown>
+#1 0x55e9a9dcf6a2 <unknown>
+#2 0x55e9a9e24a8d <unknown>
+#3 0x55e9a9e24cd1 <unknown>
+#4 0x55e9a9e705c4 <unknown>
+#5 0x55e9a9e6d7f0 <unknown>
+#6 0x55e9a9e168b2 <unknown>
+#7 0x55e9a9e176a1 <unknown>
+#8 0x55e9aa37c8a9 <unknown>
+#9 0x55e9aa37f7b1 <unknown>
+#10 0x55e9aa368ea9 <unknown>
+#11 0x55e9aa38036e <unknown>
+#12 0x55e9aa34f410 <unknown>
+#13 0x55e9aa3a40c8 <unknown>
+#14 0x55e9aa3a429b <unknown>
+#15 0x55e9aa3b5db8 <unknown>
+#16 0x7f29f4e9caa4 <unknown>
+#17 0x7f29f4f29c6c <unknown>
+
+Timestamp: 2026-02-14 07:04:58.566476
