@@ -4,21 +4,21 @@ Check: 1
 Test: add a comment with the text, /* Media Query for Large Desktop Viewports */
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/css/styles.css'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/css/styles.css'
-Timestamp: 2026-02-13 00:52:43.707831
+Timestamp: 2026-02-14 05:13:43.574110
 
 Status: FAILED!
 Check: 2
 Test: add a media query that targets a screen with a minimum width of **1921px**
 Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'rescue/css/styles.css'
 Error : FileNotFoundError - [Errno 2] No such file or directory: 'rescue/css/styles.css'
-Timestamp: 2026-02-13 00:52:43.708200
+Timestamp: 2026-02-14 05:13:43.574446
 
 Status: FAILED!
 Check: 3
 Test: Style rule for the `body` element that sets the background to a `linear-gradient` with the `color` values **#f6eee4** and **#78593a**
 Reason: Assertion failed: The body element does not have a linear-gradient background
 Error : AssertionError - The body element does not have a linear-gradient background
-Timestamp: 2026-02-13 00:52:43.779618
+Timestamp: 2026-02-14 05:13:43.657716
 
 Status: FAILED!
 Check: 4
@@ -26,48 +26,48 @@ Test: Style rule for the `#wrapper` selector that sets the `width` to **1920px**
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#wrapper"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55fef7b38a4a <unknown>
-#1 0x55fef75516a2 <unknown>
-#2 0x55fef75a6a8d <unknown>
-#3 0x55fef75a6cd1 <unknown>
-#4 0x55fef75f25c4 <unknown>
-#5 0x55fef75ef7f0 <unknown>
-#6 0x55fef75988b2 <unknown>
-#7 0x55fef75996a1 <unknown>
-#8 0x55fef7afe8a9 <unknown>
-#9 0x55fef7b017b1 <unknown>
-#10 0x55fef7aeaea9 <unknown>
-#11 0x55fef7b0236e <unknown>
-#12 0x55fef7ad1410 <unknown>
-#13 0x55fef7b260c8 <unknown>
-#14 0x55fef7b2629b <unknown>
-#15 0x55fef7b37db8 <unknown>
-#16 0x7f237e09caa4 <unknown>
-#17 0x7f237e129c6c <unknown>
+#0 0x56187d0ada4a <unknown>
+#1 0x56187cac66a2 <unknown>
+#2 0x56187cb1ba8d <unknown>
+#3 0x56187cb1bcd1 <unknown>
+#4 0x56187cb675c4 <unknown>
+#5 0x56187cb647f0 <unknown>
+#6 0x56187cb0d8b2 <unknown>
+#7 0x56187cb0e6a1 <unknown>
+#8 0x56187d0738a9 <unknown>
+#9 0x56187d0767b1 <unknown>
+#10 0x56187d05fea9 <unknown>
+#11 0x56187d07736e <unknown>
+#12 0x56187d046410 <unknown>
+#13 0x56187d09b0c8 <unknown>
+#14 0x56187d09b29b <unknown>
+#15 0x56187d0acdb8 <unknown>
+#16 0x7f1cb669caa4 <unknown>
+#17 0x7f1cb6729c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"#wrapper"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55fef7b38a4a <unknown>
-#1 0x55fef75516a2 <unknown>
-#2 0x55fef75a6a8d <unknown>
-#3 0x55fef75a6cd1 <unknown>
-#4 0x55fef75f25c4 <unknown>
-#5 0x55fef75ef7f0 <unknown>
-#6 0x55fef75988b2 <unknown>
-#7 0x55fef75996a1 <unknown>
-#8 0x55fef7afe8a9 <unknown>
-#9 0x55fef7b017b1 <unknown>
-#10 0x55fef7aeaea9 <unknown>
-#11 0x55fef7b0236e <unknown>
-#12 0x55fef7ad1410 <unknown>
-#13 0x55fef7b260c8 <unknown>
-#14 0x55fef7b2629b <unknown>
-#15 0x55fef7b37db8 <unknown>
-#16 0x7f237e09caa4 <unknown>
-#17 0x7f237e129c6c <unknown>
+#0 0x56187d0ada4a <unknown>
+#1 0x56187cac66a2 <unknown>
+#2 0x56187cb1ba8d <unknown>
+#3 0x56187cb1bcd1 <unknown>
+#4 0x56187cb675c4 <unknown>
+#5 0x56187cb647f0 <unknown>
+#6 0x56187cb0d8b2 <unknown>
+#7 0x56187cb0e6a1 <unknown>
+#8 0x56187d0738a9 <unknown>
+#9 0x56187d0767b1 <unknown>
+#10 0x56187d05fea9 <unknown>
+#11 0x56187d07736e <unknown>
+#12 0x56187d046410 <unknown>
+#13 0x56187d09b0c8 <unknown>
+#14 0x56187d09b29b <unknown>
+#15 0x56187d0acdb8 <unknown>
+#16 0x7f1cb669caa4 <unknown>
+#17 0x7f1cb6729c6c <unknown>
 
-Timestamp: 2026-02-13 00:52:44.811498
+Timestamp: 2026-02-14 05:13:44.699226
 
 Status: FAILED!
 Check: 5
@@ -75,48 +75,48 @@ Test: Style rule for the `#wrapper` selector that sets the top and bottom margin
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"#wrapper"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55fef7b38a4a <unknown>
-#1 0x55fef75516a2 <unknown>
-#2 0x55fef75a6a8d <unknown>
-#3 0x55fef75a6cd1 <unknown>
-#4 0x55fef75f25c4 <unknown>
-#5 0x55fef75ef7f0 <unknown>
-#6 0x55fef75988b2 <unknown>
-#7 0x55fef75996a1 <unknown>
-#8 0x55fef7afe8a9 <unknown>
-#9 0x55fef7b017b1 <unknown>
-#10 0x55fef7aeaea9 <unknown>
-#11 0x55fef7b0236e <unknown>
-#12 0x55fef7ad1410 <unknown>
-#13 0x55fef7b260c8 <unknown>
-#14 0x55fef7b2629b <unknown>
-#15 0x55fef7b37db8 <unknown>
-#16 0x7f237e09caa4 <unknown>
-#17 0x7f237e129c6c <unknown>
+#0 0x56187d0ada4a <unknown>
+#1 0x56187cac66a2 <unknown>
+#2 0x56187cb1ba8d <unknown>
+#3 0x56187cb1bcd1 <unknown>
+#4 0x56187cb675c4 <unknown>
+#5 0x56187cb647f0 <unknown>
+#6 0x56187cb0d8b2 <unknown>
+#7 0x56187cb0e6a1 <unknown>
+#8 0x56187d0738a9 <unknown>
+#9 0x56187d0767b1 <unknown>
+#10 0x56187d05fea9 <unknown>
+#11 0x56187d07736e <unknown>
+#12 0x56187d046410 <unknown>
+#13 0x56187d09b0c8 <unknown>
+#14 0x56187d09b29b <unknown>
+#15 0x56187d0acdb8 <unknown>
+#16 0x7f1cb669caa4 <unknown>
+#17 0x7f1cb6729c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"#wrapper"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55fef7b38a4a <unknown>
-#1 0x55fef75516a2 <unknown>
-#2 0x55fef75a6a8d <unknown>
-#3 0x55fef75a6cd1 <unknown>
-#4 0x55fef75f25c4 <unknown>
-#5 0x55fef75ef7f0 <unknown>
-#6 0x55fef75988b2 <unknown>
-#7 0x55fef75996a1 <unknown>
-#8 0x55fef7afe8a9 <unknown>
-#9 0x55fef7b017b1 <unknown>
-#10 0x55fef7aeaea9 <unknown>
-#11 0x55fef7b0236e <unknown>
-#12 0x55fef7ad1410 <unknown>
-#13 0x55fef7b260c8 <unknown>
-#14 0x55fef7b2629b <unknown>
-#15 0x55fef7b37db8 <unknown>
-#16 0x7f237e09caa4 <unknown>
-#17 0x7f237e129c6c <unknown>
+#0 0x56187d0ada4a <unknown>
+#1 0x56187cac66a2 <unknown>
+#2 0x56187cb1ba8d <unknown>
+#3 0x56187cb1bcd1 <unknown>
+#4 0x56187cb675c4 <unknown>
+#5 0x56187cb647f0 <unknown>
+#6 0x56187cb0d8b2 <unknown>
+#7 0x56187cb0e6a1 <unknown>
+#8 0x56187d0738a9 <unknown>
+#9 0x56187d0767b1 <unknown>
+#10 0x56187d05fea9 <unknown>
+#11 0x56187d07736e <unknown>
+#12 0x56187d046410 <unknown>
+#13 0x56187d09b0c8 <unknown>
+#14 0x56187d09b29b <unknown>
+#15 0x56187d0acdb8 <unknown>
+#16 0x7f1cb669caa4 <unknown>
+#17 0x7f1cb6729c6c <unknown>
 
-Timestamp: 2026-02-13 00:52:45.856916
+Timestamp: 2026-02-14 05:13:45.753315
 
 Status: FAILED!
 Check: 6
@@ -124,45 +124,45 @@ Test: Style rule for the `main` selector that sets the `background-color` to  **
 Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":"main"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55fef7b38a4a <unknown>
-#1 0x55fef75516a2 <unknown>
-#2 0x55fef75a6a8d <unknown>
-#3 0x55fef75a6cd1 <unknown>
-#4 0x55fef75f25c4 <unknown>
-#5 0x55fef75ef7f0 <unknown>
-#6 0x55fef75988b2 <unknown>
-#7 0x55fef75996a1 <unknown>
-#8 0x55fef7afe8a9 <unknown>
-#9 0x55fef7b017b1 <unknown>
-#10 0x55fef7aeaea9 <unknown>
-#11 0x55fef7b0236e <unknown>
-#12 0x55fef7ad1410 <unknown>
-#13 0x55fef7b260c8 <unknown>
-#14 0x55fef7b2629b <unknown>
-#15 0x55fef7b37db8 <unknown>
-#16 0x7f237e09caa4 <unknown>
-#17 0x7f237e129c6c <unknown>
+#0 0x56187d0ada4a <unknown>
+#1 0x56187cac66a2 <unknown>
+#2 0x56187cb1ba8d <unknown>
+#3 0x56187cb1bcd1 <unknown>
+#4 0x56187cb675c4 <unknown>
+#5 0x56187cb647f0 <unknown>
+#6 0x56187cb0d8b2 <unknown>
+#7 0x56187cb0e6a1 <unknown>
+#8 0x56187d0738a9 <unknown>
+#9 0x56187d0767b1 <unknown>
+#10 0x56187d05fea9 <unknown>
+#11 0x56187d07736e <unknown>
+#12 0x56187d046410 <unknown>
+#13 0x56187d09b0c8 <unknown>
+#14 0x56187d09b29b <unknown>
+#15 0x56187d0acdb8 <unknown>
+#16 0x7f1cb669caa4 <unknown>
+#17 0x7f1cb6729c6c <unknown>
 
 Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":"main"}
   (Session info: chrome=144.0.7559.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
 Stacktrace:
-#0 0x55fef7b38a4a <unknown>
-#1 0x55fef75516a2 <unknown>
-#2 0x55fef75a6a8d <unknown>
-#3 0x55fef75a6cd1 <unknown>
-#4 0x55fef75f25c4 <unknown>
-#5 0x55fef75ef7f0 <unknown>
-#6 0x55fef75988b2 <unknown>
-#7 0x55fef75996a1 <unknown>
-#8 0x55fef7afe8a9 <unknown>
-#9 0x55fef7b017b1 <unknown>
-#10 0x55fef7aeaea9 <unknown>
-#11 0x55fef7b0236e <unknown>
-#12 0x55fef7ad1410 <unknown>
-#13 0x55fef7b260c8 <unknown>
-#14 0x55fef7b2629b <unknown>
-#15 0x55fef7b37db8 <unknown>
-#16 0x7f237e09caa4 <unknown>
-#17 0x7f237e129c6c <unknown>
+#0 0x56187d0ada4a <unknown>
+#1 0x56187cac66a2 <unknown>
+#2 0x56187cb1ba8d <unknown>
+#3 0x56187cb1bcd1 <unknown>
+#4 0x56187cb675c4 <unknown>
+#5 0x56187cb647f0 <unknown>
+#6 0x56187cb0d8b2 <unknown>
+#7 0x56187cb0e6a1 <unknown>
+#8 0x56187d0738a9 <unknown>
+#9 0x56187d0767b1 <unknown>
+#10 0x56187d05fea9 <unknown>
+#11 0x56187d07736e <unknown>
+#12 0x56187d046410 <unknown>
+#13 0x56187d09b0c8 <unknown>
+#14 0x56187d09b29b <unknown>
+#15 0x56187d0acdb8 <unknown>
+#16 0x7f1cb669caa4 <unknown>
+#17 0x7f1cb6729c6c <unknown>
 
-Timestamp: 2026-02-13 00:52:46.901808
+Timestamp: 2026-02-14 05:13:46.806105
