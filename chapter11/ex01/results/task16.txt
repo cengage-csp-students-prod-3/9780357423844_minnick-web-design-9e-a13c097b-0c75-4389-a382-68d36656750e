@@ -1,0 +1,32 @@
+
+Status: FAILED!
+Check: 1
+Test: Copy the updated `footer` element and paste it over the existing `footer` element within the *lessons.html* file.
+Reason: Assertion failed: Footer element in index.html does not match footer element in lessons.html
+Error : AssertionError - Footer element in index.html does not match footer element in lessons.html
+Timestamp: 2026-03-31 18:53:06.831677
+
+Status: PASSED!
+Check: 2
+Test: Copy the updated `footer` element and paste it over the existing `footer` element within the *instructors.html* file.
+Reason: None
+Timestamp: 2026-03-31 18:53:06.835091
+
+Status: PASSED!
+Check: 3
+Test: Copy the updated `footer` element and paste it over the existing `footer` element within the *rentals.html* file.
+Reason: None
+Timestamp: 2026-03-31 18:53:06.838787
+
+Status: PASSED!
+Check: 4
+Test: Copy the updated `footer` element and paste it over the existing `footer` element within the *contact.html* file.
+Reason: None
+Timestamp: 2026-03-31 18:53:06.842657
+
+Status: FAILED!
+Check: 5
+Test: Copy the updated `footer` element and paste it over the existing `footer` element within the *template.html* file.
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music/template.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music/template.html'
+Timestamp: 2026-03-31 18:53:06.844156
