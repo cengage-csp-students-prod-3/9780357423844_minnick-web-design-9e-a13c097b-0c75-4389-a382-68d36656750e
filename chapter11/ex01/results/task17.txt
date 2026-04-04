@@ -3,18 +3,18 @@ Status: PASSED!
 Check: 1
 Test: Add .social img style rule to the mobile style rules section in the styles.css file
 Reason: None
-Timestamp: 2026-04-04 00:03:14.393854
+Timestamp: 2026-04-04 00:10:43.433885
 
 Status: FAILED!
 Check: 2
 Test: Add .copyright style rule to the tablet media query in the styles.css file
 Reason: Assertion failed: Expected width property value of 65%
 Error : AssertionError - Expected width property value of 65%
-Timestamp: 2026-04-04 00:03:14.446036
+Timestamp: 2026-04-04 00:10:43.485414
 
 Status: FAILED!
 Check: 3
 Test: Add .social style rule to the tablet media query in the styles.css file
 Reason: Assertion failed: Expected width property value of 25%
 Error : AssertionError - Expected width property value of 25%
-Timestamp: 2026-04-04 00:03:14.491999
+Timestamp: 2026-04-04 00:10:43.528729
