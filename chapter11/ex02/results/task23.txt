@@ -1,0 +1,21 @@
+
+Status: FAILED!
+Check: 1
+Test: add a new style rule for the `footer` that sets the `overflow` to **auto**. 
+Reason: Assertion failed: overflow not set to auto
+Error : AssertionError - overflow not set to auto
+Timestamp: 2026-04-04 00:58:30.422557
+
+Status: FAILED!
+Check: 2
+Test: Add a new style rule for the `copyright` class that specifies a left float and a `width` of **65%**.
+Reason: Assertion failed: float not set to left
+Error : AssertionError - float not set to left
+Timestamp: 2026-04-04 00:58:30.473575
+
+Status: FAILED!
+Check: 3
+Test: Add a new style rule for the `social` class that specifies a right float and a `width` of **25%**
+Reason: Assertion failed: float not set to right
+Error : AssertionError - float not set to right
+Timestamp: 2026-04-04 00:58:30.520000
