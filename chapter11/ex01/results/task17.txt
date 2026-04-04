@@ -1,147 +1,20 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Add .social img style rule to the mobile style rules section in the styles.css file
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".social"}
-  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x560e1925da6a <unknown>
-#1 0x560e18c6cab5 <unknown>
-#2 0x560e18cbf676 <unknown>
-#3 0x560e18cbf8b1 <unknown>
-#4 0x560e18d0a614 <unknown>
-#5 0x560e18d077b6 <unknown>
-#6 0x560e18cb2cbf <unknown>
-#7 0x560e18cb3a81 <unknown>
-#8 0x560e19223a64 <unknown>
-#9 0x560e19226951 <unknown>
-#10 0x560e1921021e <unknown>
-#11 0x560e1922751e <unknown>
-#12 0x560e191f6be0 <unknown>
-#13 0x560e1924a9b8 <unknown>
-#14 0x560e1924ab88 <unknown>
-#15 0x560e1925c4de <unknown>
-#16 0x7f331069caa4 <unknown>
-#17 0x7f3310729c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".social"}
-  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x560e1925da6a <unknown>
-#1 0x560e18c6cab5 <unknown>
-#2 0x560e18cbf676 <unknown>
-#3 0x560e18cbf8b1 <unknown>
-#4 0x560e18d0a614 <unknown>
-#5 0x560e18d077b6 <unknown>
-#6 0x560e18cb2cbf <unknown>
-#7 0x560e18cb3a81 <unknown>
-#8 0x560e19223a64 <unknown>
-#9 0x560e19226951 <unknown>
-#10 0x560e1921021e <unknown>
-#11 0x560e1922751e <unknown>
-#12 0x560e191f6be0 <unknown>
-#13 0x560e1924a9b8 <unknown>
-#14 0x560e1924ab88 <unknown>
-#15 0x560e1925c4de <unknown>
-#16 0x7f331069caa4 <unknown>
-#17 0x7f3310729c6c <unknown>
-
-Timestamp: 2026-03-31 18:53:09.530346
+Reason: None
+Timestamp: 2026-04-04 00:03:14.393854
 
 Status: FAILED!
 Check: 2
 Test: Add .copyright style rule to the tablet media query in the styles.css file
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".copyright"}
-  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x560e1925da6a <unknown>
-#1 0x560e18c6cab5 <unknown>
-#2 0x560e18cbf676 <unknown>
-#3 0x560e18cbf8b1 <unknown>
-#4 0x560e18d0a614 <unknown>
-#5 0x560e18d077b6 <unknown>
-#6 0x560e18cb2cbf <unknown>
-#7 0x560e18cb3a81 <unknown>
-#8 0x560e19223a64 <unknown>
-#9 0x560e19226951 <unknown>
-#10 0x560e1921021e <unknown>
-#11 0x560e1922751e <unknown>
-#12 0x560e191f6be0 <unknown>
-#13 0x560e1924a9b8 <unknown>
-#14 0x560e1924ab88 <unknown>
-#15 0x560e1925c4de <unknown>
-#16 0x7f331069caa4 <unknown>
-#17 0x7f3310729c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".copyright"}
-  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x560e1925da6a <unknown>
-#1 0x560e18c6cab5 <unknown>
-#2 0x560e18cbf676 <unknown>
-#3 0x560e18cbf8b1 <unknown>
-#4 0x560e18d0a614 <unknown>
-#5 0x560e18d077b6 <unknown>
-#6 0x560e18cb2cbf <unknown>
-#7 0x560e18cb3a81 <unknown>
-#8 0x560e19223a64 <unknown>
-#9 0x560e19226951 <unknown>
-#10 0x560e1921021e <unknown>
-#11 0x560e1922751e <unknown>
-#12 0x560e191f6be0 <unknown>
-#13 0x560e1924a9b8 <unknown>
-#14 0x560e1924ab88 <unknown>
-#15 0x560e1925c4de <unknown>
-#16 0x7f331069caa4 <unknown>
-#17 0x7f3310729c6c <unknown>
-
-Timestamp: 2026-03-31 18:53:10.591689
+Reason: Assertion failed: Expected width property value of 65%
+Error : AssertionError - Expected width property value of 65%
+Timestamp: 2026-04-04 00:03:14.446036
 
 Status: FAILED!
 Check: 3
 Test: Add .social style rule to the tablet media query in the styles.css file
-Reason: NoSuchElementException occurred: Message: no such element: Unable to locate element: {"method":"css selector","selector":".social"}
-  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x560e1925da6a <unknown>
-#1 0x560e18c6cab5 <unknown>
-#2 0x560e18cbf676 <unknown>
-#3 0x560e18cbf8b1 <unknown>
-#4 0x560e18d0a614 <unknown>
-#5 0x560e18d077b6 <unknown>
-#6 0x560e18cb2cbf <unknown>
-#7 0x560e18cb3a81 <unknown>
-#8 0x560e19223a64 <unknown>
-#9 0x560e19226951 <unknown>
-#10 0x560e1921021e <unknown>
-#11 0x560e1922751e <unknown>
-#12 0x560e191f6be0 <unknown>
-#13 0x560e1924a9b8 <unknown>
-#14 0x560e1924ab88 <unknown>
-#15 0x560e1925c4de <unknown>
-#16 0x7f331069caa4 <unknown>
-#17 0x7f3310729c6c <unknown>
-
-Error : NoSuchElementException - Message: no such element: Unable to locate element: {"method":"css selector","selector":".social"}
-  (Session info: chrome=146.0.7680.164); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
-Stacktrace:
-#0 0x560e1925da6a <unknown>
-#1 0x560e18c6cab5 <unknown>
-#2 0x560e18cbf676 <unknown>
-#3 0x560e18cbf8b1 <unknown>
-#4 0x560e18d0a614 <unknown>
-#5 0x560e18d077b6 <unknown>
-#6 0x560e18cb2cbf <unknown>
-#7 0x560e18cb3a81 <unknown>
-#8 0x560e19223a64 <unknown>
-#9 0x560e19226951 <unknown>
-#10 0x560e1921021e <unknown>
-#11 0x560e1922751e <unknown>
-#12 0x560e191f6be0 <unknown>
-#13 0x560e1924a9b8 <unknown>
-#14 0x560e1924ab88 <unknown>
-#15 0x560e1925c4de <unknown>
-#16 0x7f331069caa4 <unknown>
-#17 0x7f3310729c6c <unknown>
-
-Timestamp: 2026-03-31 18:53:11.648531
+Reason: Assertion failed: Expected width property value of 25%
+Error : AssertionError - Expected width property value of 25%
+Timestamp: 2026-04-04 00:03:14.491999

@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Below the Facebook logo, add another image element and use the **twitter-logo.png** file as the `src` attribute.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_all'
-Error : AttributeError - 'NoneType' object has no attribute 'find_all'
-Timestamp: 2026-03-31 18:53:05.741108
+Reason: None
+Timestamp: 2026-04-04 00:03:11.791054
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Below the Facebook logo, add another image element and use the **Twitter logo** for the `alt` attribute.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find_all'
-Error : AttributeError - 'NoneType' object has no attribute 'find_all'
-Timestamp: 2026-03-31 18:53:05.743277
+Reason: None
+Timestamp: 2026-04-04 00:03:11.792925
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: In the new `social` `div`, add an image element and link it to **https://www.facebook.com**.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2026-03-31 18:53:05.745301
+Reason: None
+Timestamp: 2026-04-04 00:03:11.794789

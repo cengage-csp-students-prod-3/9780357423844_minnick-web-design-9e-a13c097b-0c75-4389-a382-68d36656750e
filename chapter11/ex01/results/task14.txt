@@ -1,21 +1,18 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: In the new `social` `div`, add an image element and use the **facebook-logo.png**   file as the  `src` attribute.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2026-03-31 18:53:04.659113
+Reason: None
+Timestamp: 2026-04-04 00:03:10.691125
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: In the new `social` `div`, add an image element and use the **Facebook logo** for the `alt` attribute.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2026-03-31 18:53:04.660977
+Reason: None
+Timestamp: 2026-04-04 00:03:10.693004
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: In the new `social` `div`, add an image element and link it to **https://www.facebook.com**.
-Reason: AttributeError occurred: 'NoneType' object has no attribute 'find'
-Error : AttributeError - 'NoneType' object has no attribute 'find'
-Timestamp: 2026-03-31 18:53:04.662733
+Reason: None
+Timestamp: 2026-04-04 00:03:10.694865
