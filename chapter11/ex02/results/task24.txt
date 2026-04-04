@@ -4,46 +4,46 @@ Check: 1
 Test: Create a minified version of your stylesheet. Name it *styles.min.css*
 Reason: Assertion failed: styles.min.css not found in css directory
 Error : AssertionError - styles.min.css not found in css directory
-Timestamp: 2026-04-04 00:58:31.089636
+Timestamp: 2026-04-04 01:06:43.803039
 
 Status: FAILED!
 Check: 2
 Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
 Reason: Assertion failed: href not updated in index.html to "css/styles.min.css"
 Error : AssertionError - href not updated in index.html to "css/styles.min.css"
-Timestamp: 2026-04-04 00:58:31.092140
+Timestamp: 2026-04-04 01:06:43.805545
 
 Status: FAILED!
 Check: 3
 Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
 Reason: Assertion failed: href not updated in about.html to "css/styles.min.css"
 Error : AssertionError - href not updated in about.html to "css/styles.min.css"
-Timestamp: 2026-04-04 00:58:31.094627
+Timestamp: 2026-04-04 01:06:43.807995
 
 Status: FAILED!
 Check: 4
 Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
 Reason: Assertion failed: href not updated in contact.html to "css/styles.min.css"
 Error : AssertionError - href not updated in contact.html to "css/styles.min.css"
-Timestamp: 2026-04-04 00:58:31.097183
+Timestamp: 2026-04-04 01:06:43.810595
 
 Status: FAILED!
 Check: 5
 Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
 Reason: Assertion failed: href not updated in faqs.html to "css/styles.min.css"
 Error : AssertionError - href not updated in faqs.html to "css/styles.min.css"
-Timestamp: 2026-04-04 00:58:31.099184
+Timestamp: 2026-04-04 01:06:43.812611
 
 Status: FAILED!
 Check: 6
 Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
 Reason: Assertion failed: href not updated in partnership.html to "css/styles.min.css"
 Error : AssertionError - href not updated in partnership.html to "css/styles.min.css"
-Timestamp: 2026-04-04 00:58:31.101844
+Timestamp: 2026-04-04 01:06:43.815320
 
 Status: FAILED!
 Check: 7
 Test: Update the stylesheet link in each HTML file to use the minified CSS file instead of the original
 Reason: Assertion failed: href not updated in gallery.html to "css/styles.min.css"
 Error : AssertionError - href not updated in gallery.html to "css/styles.min.css"
-Timestamp: 2026-04-04 00:58:31.104459
+Timestamp: 2026-04-04 01:06:43.817855

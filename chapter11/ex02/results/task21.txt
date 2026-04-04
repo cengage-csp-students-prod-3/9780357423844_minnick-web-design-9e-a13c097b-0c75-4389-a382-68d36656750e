@@ -1,14 +1,13 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: `.skip` set the **position** to a value of ***absolute** and **left** to **-999px**
-Reason: Assertion failed: position not set to absolute
-Error : AssertionError - position not set to absolute
-Timestamp: 2026-04-04 00:58:28.215620
+Reason: None
+Timestamp: 2026-04-04 01:06:40.654605
 
 Status: FAILED!
 Check: 2
 Test: When in focus the `.skip` class should also add on: **color** `#fff`, **background-color** `#2a1f14`, **text-decoration** set to `none`, **padding** set to `0.5%`, both **top** and **left** to `auto`, **right** to `1px`, and **z-index** set to `1`
-Reason: Assertion failed: color not set to #fff
-Error : AssertionError - color not set to #fff
-Timestamp: 2026-04-04 00:58:28.284634
+Reason: Assertion failed: padding not set to 0.5%
+Error : AssertionError - padding not set to 0.5%
+Timestamp: 2026-04-04 01:06:40.726546
