@@ -2,6 +2,6 @@
 Status: FAILED!
 Check: 1
 Test: Open the *lessons.html* file and change the `title` element text to: **Piano, Guitar, Violin Lessons | Strike a Chord**.
-Reason: Assertion failed: Title is Piano, Guitar, Violin Lessons | Strike a Chord  instead of Piano, Guitar, Violin Lessons | Strike a Chord
-Error : AssertionError - Title is Piano, Guitar, Violin Lessons | Strike a Chord  instead of Piano, Guitar, Violin Lessons | Strike a Chord
-Timestamp: 2026-04-04 00:02:59.816706
+Reason: Assertion failed: Title is Piano, Guitar, Violin Lessons|Strike a Chord  instead of Piano, Guitar, Violin Lessons | Strike a Chord
+Error : AssertionError - Title is Piano, Guitar, Violin Lessons|Strike a Chord  instead of Piano, Guitar, Violin Lessons | Strike a Chord
+Timestamp: 2026-04-04 00:05:26.008989
