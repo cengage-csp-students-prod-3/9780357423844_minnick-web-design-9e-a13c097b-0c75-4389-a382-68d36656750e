@@ -403,8 +403,7 @@ footer a {
     }
 
     .social {
-        float: right;
-                    width: 25%;
+        float: right; width: 25%;
     }
 }
 
