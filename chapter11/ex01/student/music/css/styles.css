@@ -399,8 +399,7 @@ footer a {
 
     /*New- Tablet Viewport: Style rules for footer area */
     .copyright {
-        float: left;
-        width: 65%;
+        float: left; width: 65%;
     }
 
     .social {
