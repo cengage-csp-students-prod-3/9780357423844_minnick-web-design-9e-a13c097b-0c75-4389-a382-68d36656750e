@@ -1,42 +1,36 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: The bg-dark-purple class has been added to the nav element
-Reason: Assertion failed: bg-dark-purple class is missing from the nav element
-Error : AssertionError - bg-dark-purple class is missing from the nav element
-Timestamp: 2026-04-11 05:37:45.211037
+Reason: None
+Timestamp: 2026-04-11 05:44:21.623183
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: The hero class has been added to the header element
-Reason: TypeError occurred: argument of type 'NoneType' is not iterable
-Error : TypeError - argument of type 'NoneType' is not iterable
-Timestamp: 2026-04-11 05:37:45.212837
+Reason: None
+Timestamp: 2026-04-11 05:44:21.625564
 
-Status: FAILED!
+Status: PASSED!
 Check: 3
 Test: The welcome class has been added to the div element nested within the header element
-Reason: Assertion failed: div element is missing within the header element
-Error : AssertionError - div element is missing within the header element
-Timestamp: 2026-04-11 05:37:45.214599
+Reason: None
+Timestamp: 2026-04-11 05:44:21.627790
 
-Status: FAILED!
+Status: PASSED!
 Check: 4
 Test: The text-dark-purple class has been added to the h1 element within the header element
-Reason: TypeError occurred: argument of type 'NoneType' is not iterable
-Error : TypeError - argument of type 'NoneType' is not iterable
-Timestamp: 2026-04-11 05:37:45.216202
+Reason: None
+Timestamp: 2026-04-11 05:44:21.630063
 
-Status: FAILED!
+Status: PASSED!
 Check: 5
 Test: The bg-dark-purple class has been added to the anchor element within the header element
-Reason: Assertion failed: a element is missing within the header element
-Error : AssertionError - a element is missing within the header element
-Timestamp: 2026-04-11 05:37:45.217897
+Reason: None
+Timestamp: 2026-04-11 05:44:21.632326
 
-Status: FAILED!
+Status: PASSED!
 Check: 6
 Test: The bg-dark-purple class has been added to the footer element
-Reason: TypeError occurred: argument of type 'NoneType' is not iterable
-Error : TypeError - argument of type 'NoneType' is not iterable
-Timestamp: 2026-04-11 05:37:45.219549
+Reason: None
+Timestamp: 2026-04-11 05:44:21.634580

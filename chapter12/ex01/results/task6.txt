@@ -3,11 +3,10 @@ Status: PASSED!
 Check: 1
 Test: The nav element has been added to the file index.html
 Reason: None
-Timestamp: 2026-04-11 05:37:39.888756
+Timestamp: 2026-04-11 05:44:16.113514
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: The navbar has been added to the file index.html
-Reason: Assertion failed: Navbar brand element is missing
-Error : AssertionError - Navbar brand element is missing
-Timestamp: 2026-04-11 05:37:39.890437
+Reason: None
+Timestamp: 2026-04-11 05:44:16.116279
