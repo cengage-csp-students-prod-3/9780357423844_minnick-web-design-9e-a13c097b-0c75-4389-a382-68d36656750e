@@ -2,6 +2,6 @@
 Status: FAILED!
 Check: 1
 Test: The starter template code has been added to the file index.html
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music-bootstrap/index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music-bootstrap/index.html'
-Timestamp: 2026-04-11 05:23:42.735348
+Reason: Assertion failed: Bootstrap CSS link is missing
+Error : AssertionError - Bootstrap CSS link is missing
+Timestamp: 2026-04-11 05:37:33.859024

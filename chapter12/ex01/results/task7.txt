@@ -2,6 +2,6 @@
 Status: FAILED!
 Check: 1
 Test: The header jumbotron element has been added to the file index.html
-Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music-bootstrap/index.html'
-Error : FileNotFoundError - [Errno 2] No such file or directory: 'music-bootstrap/index.html'
-Timestamp: 2026-04-11 05:23:49.909824
+Reason: TypeError occurred: argument of type 'NoneType' is not iterable
+Error : TypeError - argument of type 'NoneType' is not iterable
+Timestamp: 2026-04-11 05:37:40.956833
