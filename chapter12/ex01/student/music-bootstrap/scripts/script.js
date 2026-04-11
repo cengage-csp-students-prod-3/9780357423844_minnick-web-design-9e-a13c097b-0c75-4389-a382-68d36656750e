@@ -1,10 +1,18 @@
-/*
-    Student Name:
-    File Name: script.js
-    Date: 
+/* 
+Author: Sabrina Shehreen
+Date: 04/10/2026
+File name: script.js 
 */
 
-//jQuery for hero image to consume the header window space
-$(document).ready(function(){
-    $('.hero').height($(window).height());
-});
+// Hamburger menu function for mobile navigation
+function hamburger() {
+    var menu = document.getElementById("menu-links");
+    if (menu.style.display === "block") {
+        menu.style.display = "none";
+    } else {
+        menu.style.display = "block";
+    }
+}
+
+// Console log to confirm script is loaded
+console.log("Strike a Chord script loaded successfully");
