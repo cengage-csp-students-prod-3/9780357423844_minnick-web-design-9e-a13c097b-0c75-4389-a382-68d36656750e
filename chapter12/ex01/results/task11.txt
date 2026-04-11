@@ -1,0 +1,42 @@
+
+Status: FAILED!
+Check: 1
+Test: The bg-dark-purple class has been added to the nav element
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Timestamp: 2026-04-11 05:23:54.288773
+
+Status: FAILED!
+Check: 2
+Test: The hero class has been added to the header element
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Timestamp: 2026-04-11 05:23:54.289016
+
+Status: FAILED!
+Check: 3
+Test: The welcome class has been added to the div element nested within the header element
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Timestamp: 2026-04-11 05:23:54.289142
+
+Status: FAILED!
+Check: 4
+Test: The text-dark-purple class has been added to the h1 element within the header element
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Timestamp: 2026-04-11 05:23:54.289261
+
+Status: FAILED!
+Check: 5
+Test: The bg-dark-purple class has been added to the anchor element within the header element
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Timestamp: 2026-04-11 05:23:54.289341
+
+Status: FAILED!
+Check: 6
+Test: The bg-dark-purple class has been added to the footer element
+Reason: FileNotFoundError occurred: [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Error : FileNotFoundError - [Errno 2] No such file or directory: 'music-bootstrap/index.html'
+Timestamp: 2026-04-11 05:23:54.289415
