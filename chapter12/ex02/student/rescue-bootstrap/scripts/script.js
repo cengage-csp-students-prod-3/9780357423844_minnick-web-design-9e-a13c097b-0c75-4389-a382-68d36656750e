@@ -1,7 +1,7 @@
 /*
     Student Name: Sabrina Shehreen
     File Name: script.js
-    Date: 03/28/2026
+    Date: 04/10/2026
 */
 
 // Global variables
@@ -44,3 +44,16 @@ function ans4() {
     heading.style.display = "block";
     answer.textContent = "We need volunteers to help feed animals, care for animals, and clean animal pens. We also accept donations.";
 }
+
+// Hamburger menu function for mobile navigation
+function hamburger() {
+    var menu = document.getElementById("menu-links");
+    if (menu.style.display === "block") {
+        menu.style.display = "none";
+    } else {
+        menu.style.display = "block";
+    }
+}
+
+// Console log to confirm script is loaded
+console.log("Wild Rescues script loaded successfully");
