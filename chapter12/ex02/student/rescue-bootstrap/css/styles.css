@@ -1,30 +1,410 @@
 /*
-    Student Name: Maria Cruz
-    Date: Current Date
+    Student Name: Sabrina Shehreen
     File Name: styles.css
+    Date: 04/03/2026
 */
 
+/* CSS Reset */
+body, header, nav, main, footer, img, h1, h3, ul, figure, figcaption, video, form, fieldset, legend, input, textarea {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 
+/* Style rules for body and images */
+body {
+    background-color: #f6eee4;
+}
+
+img, video {
+    max-width: 100%;
+    display: block;
+}
+
+/* Style rules for skip navigation link */
+.skip {
+    position: absolute;
+    left: -999px;
+}
+
+.skip:focus {
+    color: #fff;
+    background-color: #2a1f14;
+    text-decoration: none;
+    padding: 0.5%;
+    top: auto;
+    left: auto;
+    right: 1px;
+    z-index: 1;
+}
+
+/* Style rules for mobile viewport */
+
+/* Style rule for header */
+header {
+    font-family: 'Emblema One', cursive;
+    text-align: center;
+    padding: 2%;
+    background-color: #2a1f14;
+}
+
+/* Style rules for header h1 */
+header h1 {
+    font-size: 3em;
+    color: #f6eee4;
+}
+
+/* Style rules for header h3 */
+header h3 {
+    font-size: 1.5em;
+    color: #f6eee4;
+}
+
+/* Style rules for navigation area */
+nav {
+    background-color: #2a1f14;
+}
+
+.mobile-nav {
+    display: block;
+}
+
+.tab-desk {
+    display: none;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li {
+    display: block;
+    border-top: 1px solid #f6eee4;
+    font-size: 1.5em;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+}
+
+nav li a {
+    display: block;
+    color: #f6eee4;
+    text-align: center;
+    padding: 0.5em 1em;
+    text-decoration: none;
+}
+
+/* Style rules for main content */
+main {
+    padding: 2%;
+    font-family: 'Lora', serif;
+}
+
+main p {
+    font-size: 1.25em;
+}
+
+main h3 {
+    padding-top: 2%;
+}
+
+main ul {
+    list-style-type: square;
+}
+
+#welcome, #latest {
+    margin-bottom: 3%;
+}
+
+#latest img {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.round {
+    border-radius: 50%;
+}
+
+/* Style rule for figure and figcaption */
+figure {
+    margin: 2%;
+}
+
+figcaption {
+    font-size: 0.75em;
+    text-align: center;
+}
+
+/* Style rules for footer area */
+footer {
+    text-align: center;
+    font-size: 0.85em;
+    background-color: #2a1f14;
+    color: #f6eee4;
+    padding: 1% 0;
+}
+
+footer a {
+    color: #f3e6d8;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #d6b88a;
+}
+
+/* Style rules for images within the social class */
+.social img {
+    display: inline-block;
+    padding: 4%;
+}
+
+/* Style rules for tel-link */
+.tel-link {
+    background-color: #2a1f14;
+    padding: 2%;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.tel-link a {
+    color: #f6eee4;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Style rules for form elements */
+fieldset {
+    margin-bottom: 2%;
+    border: 1px solid #2a1f14;
+    padding: 2%;
+}
+
+legend {
+    font-weight: bold;
+    padding: 0.5%;
+}
+
+label {
+    display: block;
+    padding-top: 2%;
+}
+
+input, textarea {
+    margin-bottom: 2%;
+    border: 1px solid #2a1f14;
+    padding: 1%;
+    width: 95%;
+}
+
+#submit {
+    margin: 0 auto;
+    display: block;
+    padding: 2%;
+    background-color: #2a1f14;
+    color: #f6eee4;
+    font-size: 1.25em;
+    border-radius: 10px;
+    width: 50%;
+}
 
 /* Media Query for Tablet Viewport */
-@media (min-width: 768px) { 
+@media screen and (min-width: 620px) {
     
-    .welcome {
-        top: 20%;
-        left: 5%;
-        padding: 2em;
+    /* Tablet Viewport: Show tab-desk class, hide mobile-nav class */
+    .tab-desk {
+        display: block;
     }
-
+    
+    .mobile-nav {
+        display: none;
+    }
+    
+    /* Tablet Viewport: Style rules for nav area */
+    nav li {
+        display: inline-block;
+        border-top: 0;
+        font-size: 1.25em;
+    }
+    
+    nav li a {
+        padding: 0.5em;
+    }
+    
+    /* Tablet Viewport: Style rules for main content */
+    .grid {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 20px;
+    }
+    
+    aside {
+        grid-column: 1 / span 2;
+        text-align: center;
+        font-size: 1.5em;
+        font-weight: bold;
+        padding: 2%;
+    }
+    
+    /* Tablet Viewport: Style rule for form */
+    form {
+        width: 70%;
+        margin: 0 auto;
+    }
+    
+    /* Tablet Viewport: Style rules for footer area */
+    footer {
+        overflow: auto;
+    }
+    
+    .copyright {
+        float: left;
+        width: 65%;
+    }
+    
+    .social {
+        float: right;
+        width: 25%;
+    }
 }
 
 /* Media Query for Desktop Viewport */
-@media (min-width: 992px) { 
+@media screen and (min-width: 1000px) {
     
+    /* Desktop Viewport: Style rules for nav area */
+    nav li {
+        font-size: 1.5em;
+    }
+    
+    nav li a {
+        padding: 0.5em 1.5em;
+    }
+    
+    /* Desktop Viewport: Style rules for main content */
+    .grid {
+        grid-template-columns: auto auto auto auto;
+    }
+    
+    aside {
+        grid-column: 1 / span 4;
+    }
+    
+    #latest img {
+        width: 40%;
+        float: left;
+        margin-right: 2%;
+    }
+    
+    #welcome {
+        width: 45%;
+        float: left;
+        margin-right: 5%;
+    }
+    
+    #latest {
+        width: 45%;
+        float: left;
+    }
+    
+    /* Desktop Viewport: Style rules for form */
+    form {
+        width: auto;
+    }
+    
+    .form-grid {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 20px;
+    }
+    
+    .btn {
+        grid-column: 1 / span 2;
+    }
+}
+
+/* Media Query for Large Desktop Viewport */
+@media screen and (min-width: 1921px) {
+    
+    body {
+        background: linear-gradient(#f6eee4, #785c42);
+    }
+    
+    #wrapper {
+        width: 1920px;
+        margin: 0 auto;
+    }
+    
+    main {
+        background-color: #f6eee4;
+    }
+    
+    .grid {
+        grid-template-columns: auto auto auto auto auto;
+    }
+    
+    aside {
+        grid-column: 1 / span 5;
+    }
+}
+
+/* Print Styles */
+@media print {
+    
+    body {
+        background-color: white;
+        color: black;
+    }
+    
+    nav, footer, video, audio, .social, .mobile-nav {
+        display: none;
+    }
+}
+
+/* Custom styles for Wild Rescues Bootstrap page */
+
+.bg-brown {
+    background-color: #5c3a21 !important;
+}
+
+.hero {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+    margin-top: 56px; /* Account for fixed navbar */
+}
+
+.welcome {
+    padding: 80px 0;
+}
+
+.btn-outline-secondary {
+    border-color: white;
+    color: white;
+}
+
+.btn-outline-secondary:hover {
+    background-color: #5c3a21 !important;
+    border-color: #5c3a21 !important;
+}
+
+/* Override body padding for Bootstrap page */
+body {
+    padding-top: 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
     .hero {
-        background-position: left;
+        min-height: 350px;
+        margin-top: 56px;
+    }
+    
+    .welcome {
+        padding: 40px 0;
     }
     
     .display-1 {
-        font-size: 8em;
+        font-size: 3rem;
     }
 }
